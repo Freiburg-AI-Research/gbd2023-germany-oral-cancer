@@ -57,11 +57,11 @@ Two queries (Inzidenz and Mortalität) with these settings:
 Save the two CSVs as `data/zfkd/zfkd_incidence_c00_c08.csv` and
 `data/zfkd/zfkd_mortality_c00_c08.csv`. Used only by `analysis/06_zfkd_comparison.R`.
 
-## 3. UN World Population Prospects 2019
+## 3. UN World Population Prospects 2024
 
-Source: the [`wpp2019`](https://cran.r-project.org/package=wpp2019) R package
-on CRAN. Installed automatically by `analysis/00_setup.R`. Used by
-`analysis/07_population_sensitivity.R`.
+Source: the [`wpp2024`](https://github.com/PPgp/wpp2024) R package on GitHub
+(not on CRAN because of its size). Installed automatically by
+`analysis/00_setup.R`. Used by `analysis/07_population_sensitivity.R`.
 
 ## Citations
 
@@ -80,7 +80,7 @@ When using the ZfKD inputs cite:
 > Mortalitätsdaten bereitgestellt vom Statistischen Bundesamt.
 > www.krebsdaten.de/abfrage.
 
-When using the WPP 2019 inputs cite:
+When using the WPP 2024 inputs cite:
 
 > United Nations, Department of Economic and Social Affairs, Population
-> Division. World Population Prospects 2019. New York: UN, 2019.
+> Division. World Population Prospects 2024. New York: UN, 11 July 2024.

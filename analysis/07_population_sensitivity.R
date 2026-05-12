@@ -1,19 +1,19 @@
 # 07_population_sensitivity.R
 # Sensitivity analysis: replace static-population assumption in Nordpred
-# projection with UN World Population Prospects 2019 medium-variant projection
+# projection with UN World Population Prospects 2024 medium-variant projection
 # for Germany (5-year age x sex x year, all comparable to GBD/Nordpred bins).
 #
 # Output: eFigure 4 (or eTable) comparing static vs WPP absolute count projections.
 
 suppressPackageStartupMessages({
   library(data.table); library(ggplot2); library(dplyr); library(tidyr)
-  library(scales); library(nordpred); library(wpp2019)
+  library(scales); library(nordpred); library(wpp2024)
 })
 
-DATA_DIR <- "."  # repository root
-CAUSE_CSV <- file.path(DATA_DIR, "data/gbd_cause",
+DATA_DIR <- "C:/Users/babak/Downloads/GBD"
+CAUSE_CSV <- file.path(DATA_DIR, "IHME-GBD_2023_DATA-684738bc-1",
                       "IHME-GBD_2023_DATA-684738bc-1.csv")
-OUT_DIR <- file.path(DATA_DIR, "output")
+OUT_DIR  <- file.path(DATA_DIR, "analysis", "output")
 FIG_DIR  <- file.path(OUT_DIR, "figures")
 TBL_DIR  <- file.path(OUT_DIR, "tables")
 DATA_OUT <- file.path(OUT_DIR, "data")
@@ -35,7 +35,7 @@ FCST_PERIOD_MID <- c(2026, 2031, 2036, 2041)
 NPROJ <- length(FCST_PERIOD_LBL)
 START_EST_AGE <- 6; START_USE_AGE <- 6
 
-# ---- WPP 2019 Germany medium-variant population projection -----------------
+# ---- WPP 2024 Germany medium-variant population projection -----------------
 data(popMprojMed); data(popFprojMed)
 # Each column is 1 July of the given year, in THOUSANDS
 
@@ -94,7 +94,7 @@ wpp_pyr_M <- build_wpp_pyr("Male")
 wpp_pyr_F <- build_wpp_pyr("Female")
 wpp_pyr_B <- wpp_pyr_M + wpp_pyr_F
 
-cat("WPP 2019 Germany medium-variant population projection by 5-year period:\n")
+cat("WPP 2024 Germany medium-variant population projection by 5-year period:\n")
 cat("\nBoth sexes (thousands of person-years per 5-yr period):\n")
 print(round(wpp_pyr_B / 1000))
 
@@ -159,7 +159,7 @@ res_wpp <- rbind(
   run_one("Both","DALYs (Disability-Adjusted Life Years)", wpp_pyr_B),
   run_one("Both","Incidence", wpp_pyr_B)
 )
-res_wpp[, scenario := "WPP 2019 medium variant"]
+res_wpp[, scenario := "WPP 2024 medium variant"]
 
 # Also load static-population baseline from earlier run
 res_static <- fread(file.path(DATA_OUT, "nordpred_projections.csv"))
@@ -190,13 +190,13 @@ p4 <- ggplot(cmp, aes(x = period_mid, y = annual_count, colour = scenario,
   scale_x_continuous(breaks = seq(2000, 2040, 10)) +
   scale_y_continuous(labels = comma_format(accuracy = 1)) +
   scale_colour_manual(values = c("Static population (baseline)" = "grey50",
-                                 "WPP 2019 medium variant" = "#1f77b4")) +
+                                 "WPP 2024 medium variant" = "#1f77b4")) +
   scale_linetype_manual(values = c("Static population (baseline)" = "dashed",
-                                   "WPP 2019 medium variant" = "solid")) +
+                                   "WPP 2024 medium variant" = "solid")) +
   labs(x = "Year (period midpoint)", y = "Annual count",
        colour = NULL, linetype = NULL,
        title = "Population-projection sensitivity for absolute-count forecasts",
-       subtitle = "Both sexes, Germany; static-population baseline vs UN WPP 2019 medium-variant population projection") +
+       subtitle = "Both sexes, Germany; static-population baseline vs UN WPP 2024 medium-variant population projection") +
   theme_minimal(base_size = 9) +
   theme(legend.position = "bottom",
         plot.title.position = "plot",

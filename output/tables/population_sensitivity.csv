@@ -1,34 +1,34 @@
 period,period_mid,total_count,sex,measure,scenario
-1994-1998,1996,13477,Both,Deaths,WPP 2019 medium variant
-1999-2003,2001,13052,Both,Deaths,WPP 2019 medium variant
-2004-2008,2006,12894,Both,Deaths,WPP 2019 medium variant
-2009-2013,2011,14271,Both,Deaths,WPP 2019 medium variant
-2014-2018,2016,14915,Both,Deaths,WPP 2019 medium variant
-2019-2023,2021,14453,Both,Deaths,WPP 2019 medium variant
-2024-2028,2026,13906.1244014854,Both,Deaths,WPP 2019 medium variant
-2029-2033,2031,13258.1326655806,Both,Deaths,WPP 2019 medium variant
-2034-2038,2036,12479.7469099001,Both,Deaths,WPP 2019 medium variant
-2039-2043,2041,12128.6001446546,Both,Deaths,WPP 2019 medium variant
-1994-1998,1996,391538,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-1999-2003,2001,369858,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2004-2008,2006,354391,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2009-2013,2011,373510,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2014-2018,2016,364800,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2019-2023,2021,331941,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2024-2028,2026,294746.282291927,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2029-2033,2031,261911.859039559,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2034-2038,2036,233427.8605881,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-2039-2043,2041,214417.193837264,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
-1994-1998,1996,34590,Both,Incidence,WPP 2019 medium variant
-1999-2003,2001,35581,Both,Incidence,WPP 2019 medium variant
-2004-2008,2006,37219,Both,Incidence,WPP 2019 medium variant
-2009-2013,2011,40717,Both,Incidence,WPP 2019 medium variant
-2014-2018,2016,40356,Both,Incidence,WPP 2019 medium variant
-2019-2023,2021,38644,Both,Incidence,WPP 2019 medium variant
-2024-2028,2026,36417.1164192282,Both,Incidence,WPP 2019 medium variant
-2029-2033,2031,34172.8588605459,Both,Incidence,WPP 2019 medium variant
-2034-2038,2036,31727.8450018757,Both,Incidence,WPP 2019 medium variant
-2039-2043,2041,29944.9498361946,Both,Incidence,WPP 2019 medium variant
+1994-1998,1996,13477,Both,Deaths,WPP 2024 medium variant
+1999-2003,2001,13052,Both,Deaths,WPP 2024 medium variant
+2004-2008,2006,12894,Both,Deaths,WPP 2024 medium variant
+2009-2013,2011,14271,Both,Deaths,WPP 2024 medium variant
+2014-2018,2016,14915,Both,Deaths,WPP 2024 medium variant
+2019-2023,2021,14453,Both,Deaths,WPP 2024 medium variant
+2024-2028,2026,14095.5492121034,Both,Deaths,WPP 2024 medium variant
+2029-2033,2031,13306.6740570554,Both,Deaths,WPP 2024 medium variant
+2034-2038,2036,12441.9285427253,Both,Deaths,WPP 2024 medium variant
+2039-2043,2041,12041.2261788772,Both,Deaths,WPP 2024 medium variant
+1994-1998,1996,391538,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+1999-2003,2001,369858,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2004-2008,2006,354391,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2009-2013,2011,373510,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2014-2018,2016,364800,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2019-2023,2021,331941,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2024-2028,2026,298421.606263573,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2029-2033,2031,262897.915703736,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2034-2038,2036,232628.457915186,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+2039-2043,2041,212339.236881326,Both,DALYs (Disability-Adjusted Life Years),WPP 2024 medium variant
+1994-1998,1996,34590,Both,Incidence,WPP 2024 medium variant
+1999-2003,2001,35581,Both,Incidence,WPP 2024 medium variant
+2004-2008,2006,37219,Both,Incidence,WPP 2024 medium variant
+2009-2013,2011,40717,Both,Incidence,WPP 2024 medium variant
+2014-2018,2016,40356,Both,Incidence,WPP 2024 medium variant
+2019-2023,2021,38644,Both,Incidence,WPP 2024 medium variant
+2024-2028,2026,36903.5130765839,Both,Incidence,WPP 2024 medium variant
+2029-2033,2031,34324.989838887,Both,Incidence,WPP 2024 medium variant
+2034-2038,2036,31655.4795440492,Both,Incidence,WPP 2024 medium variant
+2039-2043,2041,29721.5486673489,Both,Incidence,WPP 2024 medium variant
 1994-1998,1996,13477,Both,Deaths,Static population (baseline)
 1999-2003,2001,13052,Both,Deaths,Static population (baseline)
 2004-2008,2006,12894,Both,Deaths,Static population (baseline)

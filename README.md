@@ -60,7 +60,7 @@ in Germany, based on the Global Burden of Disease Study 2023.
 3. **Download the input data** following `data/README.md`. The two GBD CSV
    files go to `data/gbd_cause/` and `data/gbd_risk/`; the two optional ZfKD
    CSV files go to `data/zfkd/`. The WPP 2024 input is installed automatically
-   as an R package.
+   as an R package from GitHub (PPgp/wpp2024) by `00_setup.R`.
 
 4. **Run the analysis scripts in order**:
 
@@ -81,9 +81,11 @@ in Germany, based on the Global Burden of Disease Study 2023.
 ## R packages
 
 The setup script installs the following CRAN packages: `data.table`, `ggplot2`,
-`dplyr`, `tidyr`, `readr`, `scales`, `patchwork`, `remotes`, `segmented`,
-`wpp2024`. The `nordpred` package is installed from a GitHub fork because the
-original CRAN release is no longer maintained for current R versions.
+`dplyr`, `tidyr`, `readr`, `scales`, `patchwork`, `remotes`, `segmented`. The
+`nordpred` package is installed from a GitHub fork because the original CRAN
+release is no longer maintained for current R versions. The `wpp2024` package
+is installed from [PPgp/wpp2024](https://github.com/PPgp/wpp2024) on GitHub;
+it is not on CRAN because of its size.
 
 ## Citation
 
@@ -95,7 +97,8 @@ Underlying data should be cited as documented in `data/README.md`:
 - GBD 2023: Global Burden of Disease Collaborative Network. Global Burden of
   Disease Study 2023 (GBD 2023) Results. Seattle: IHME, 2024.
 - ZfKD: Zentrum für Krebsregisterdaten im Robert Koch-Institut.
-- WPP 2024: UN Population Division. World Population Prospects 2024.
+- WPP 2024: United Nations, Department of Economic and Social Affairs,
+  Population Division. World Population Prospects 2024 (released 11 July 2024).
 
 ## License
 

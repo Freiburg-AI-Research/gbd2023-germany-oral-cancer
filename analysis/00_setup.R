@@ -34,9 +34,25 @@ if (!"nordpred" %in% rownames(installed.packages())) {
   }
 }
 
+# wpp2024 from GitHub — not on CRAN because of its size
+if (!"wpp2024" %in% rownames(installed.packages())) {
+  cat("\nInstalling wpp2024 from PPgp/wpp2024 GitHub (may take several minutes)...\n")
+  options(timeout = 1200)
+  tryCatch({
+    remotes::install_github("PPgp/wpp2024", upgrade = "never", quiet = TRUE)
+  }, error = function(e) {
+    cat("wpp2024 install failed:", conditionMessage(e), "\n")
+  })
+}
+
+# segmented from CRAN — used for Joinpoint regression
+if (!"segmented" %in% rownames(installed.packages())) {
+  install.packages("segmented", repos = "https://cloud.r-project.org")
+}
+
 cat("\n=== Verification ===\n")
 ok <- TRUE
-for (p in c(cran_pkgs, "nordpred")) {
+for (p in c(cran_pkgs, "nordpred", "wpp2024", "segmented")) {
   available <- requireNamespace(p, quietly = TRUE)
   cat(sprintf("  %-12s %s\n", p, ifelse(available, "OK", "MISSING")))
   if (!available) ok <- FALSE
