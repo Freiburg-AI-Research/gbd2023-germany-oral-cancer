@@ -1,0 +1,61 @@
+period,period_mid,total_count,sex,measure,scenario
+1994-1998,1996,13477,Both,Deaths,WPP 2019 medium variant
+1999-2003,2001,13052,Both,Deaths,WPP 2019 medium variant
+2004-2008,2006,12894,Both,Deaths,WPP 2019 medium variant
+2009-2013,2011,14271,Both,Deaths,WPP 2019 medium variant
+2014-2018,2016,14915,Both,Deaths,WPP 2019 medium variant
+2019-2023,2021,14453,Both,Deaths,WPP 2019 medium variant
+2024-2028,2026,13906.1244014854,Both,Deaths,WPP 2019 medium variant
+2029-2033,2031,13258.1326655806,Both,Deaths,WPP 2019 medium variant
+2034-2038,2036,12479.7469099001,Both,Deaths,WPP 2019 medium variant
+2039-2043,2041,12128.6001446546,Both,Deaths,WPP 2019 medium variant
+1994-1998,1996,391538,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+1999-2003,2001,369858,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2004-2008,2006,354391,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2009-2013,2011,373510,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2014-2018,2016,364800,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2019-2023,2021,331941,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2024-2028,2026,294746.282291927,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2029-2033,2031,261911.859039559,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2034-2038,2036,233427.8605881,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+2039-2043,2041,214417.193837264,Both,DALYs (Disability-Adjusted Life Years),WPP 2019 medium variant
+1994-1998,1996,34590,Both,Incidence,WPP 2019 medium variant
+1999-2003,2001,35581,Both,Incidence,WPP 2019 medium variant
+2004-2008,2006,37219,Both,Incidence,WPP 2019 medium variant
+2009-2013,2011,40717,Both,Incidence,WPP 2019 medium variant
+2014-2018,2016,40356,Both,Incidence,WPP 2019 medium variant
+2019-2023,2021,38644,Both,Incidence,WPP 2019 medium variant
+2024-2028,2026,36417.1164192282,Both,Incidence,WPP 2019 medium variant
+2029-2033,2031,34172.8588605459,Both,Incidence,WPP 2019 medium variant
+2034-2038,2036,31727.8450018757,Both,Incidence,WPP 2019 medium variant
+2039-2043,2041,29944.9498361946,Both,Incidence,WPP 2019 medium variant
+1994-1998,1996,13477,Both,Deaths,Static population (baseline)
+1999-2003,2001,13052,Both,Deaths,Static population (baseline)
+2004-2008,2006,12894,Both,Deaths,Static population (baseline)
+2009-2013,2011,14271,Both,Deaths,Static population (baseline)
+2014-2018,2016,14915,Both,Deaths,Static population (baseline)
+2019-2023,2021,14453,Both,Deaths,Static population (baseline)
+2024-2028,2026,13037.6334713689,Both,Deaths,Static population (baseline)
+2029-2033,2031,11802.9438274227,Both,Deaths,Static population (baseline)
+2034-2038,2036,10607.3702504435,Both,Deaths,Static population (baseline)
+2039-2043,2041,9689.55985944289,Both,Deaths,Static population (baseline)
+1994-1998,1996,391538,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+1999-2003,2001,369858,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2004-2008,2006,354391,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2009-2013,2011,373510,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2014-2018,2016,364800,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2019-2023,2021,331941,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2024-2028,2026,282292.523429749,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2029-2033,2031,242638.261191601,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2034-2038,2036,211740.850542331,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+2039-2043,2041,190602.085641773,Both,DALYs (Disability-Adjusted Life Years),Static population (baseline)
+1994-1998,1996,34590,Both,Incidence,Static population (baseline)
+1999-2003,2001,35581,Both,Incidence,Static population (baseline)
+2004-2008,2006,37219,Both,Incidence,Static population (baseline)
+2009-2013,2011,40717,Both,Incidence,Static population (baseline)
+2014-2018,2016,40356,Both,Incidence,Static population (baseline)
+2019-2023,2021,38644,Both,Incidence,Static population (baseline)
+2024-2028,2026,34614.5750472703,Both,Incidence,Static population (baseline)
+2029-2033,2031,31005.3698001193,Both,Incidence,Static population (baseline)
+2034-2038,2036,27721.9682198157,Both,Incidence,Static population (baseline)
+2039-2043,2041,25146.3959872531,Both,Incidence,Static population (baseline)

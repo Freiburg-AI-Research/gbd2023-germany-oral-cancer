@@ -1,0 +1,25 @@
+measure_lbl,sex,risk,year,attributable,total,paf
+DALYs,Both,High alcohol use,1990,21310,80246,26.6
+DALYs,Both,High alcohol use,2023,15140,66058,22.9
+DALYs,Both,Tobacco,1990,36503,80246,45.5
+DALYs,Both,Tobacco,2023,22546,66058,34.1
+DALYs,Female,High alcohol use,1990,2355,15236,15.5
+DALYs,Female,High alcohol use,2023,2342,18952,12.4
+DALYs,Female,Tobacco,1990,4481,15236,29.4
+DALYs,Female,Tobacco,2023,4459,18952,23.5
+DALYs,Male,High alcohol use,1990,18955,65010,29.2
+DALYs,Male,High alcohol use,2023,12799,47106,27.2
+DALYs,Male,Tobacco,1990,32021,65010,49.3
+DALYs,Male,Tobacco,2023,18088,47106,38.4
+Deaths,Both,High alcohol use,1990,659,2703,24.4
+Deaths,Both,High alcohol use,2023,601,2935,20.5
+Deaths,Both,Tobacco,1990,1141,2703,42.2
+Deaths,Both,Tobacco,2023,869,2935,29.6
+Deaths,Female,High alcohol use,1990,86,648,13.3
+Deaths,Female,High alcohol use,2023,101,975,10.4
+Deaths,Female,Tobacco,1990,162,648,25.1
+Deaths,Female,Tobacco,2023,186,975,19.1
+Deaths,Male,High alcohol use,1990,573,2055,27.9
+Deaths,Male,High alcohol use,2023,500,1960,25.5
+Deaths,Male,Tobacco,1990,979,2055,47.6
+Deaths,Male,Tobacco,2023,683,1960,34.8

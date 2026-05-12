@@ -1,0 +1,34 @@
+# R session files
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj
+
+# Operating-system noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+*~
+
+# Large input data — fetched by the user per data/README.md
+data/gbd_cause/*.csv
+data/gbd_cause/*.csv.gz
+data/gbd_risk/*.csv
+data/gbd_risk/*.csv.gz
+data/zfkd/*.csv
+data/forecast/*.csv
+data/forecast/*.pdf
+
+# Local R package library overrides
+renv/
+.Rprofile
+
+# Compiled artefacts
+*.tar.gz
+*.zip

@@ -1,0 +1,10 @@
+measure,sex,aapc
+DALYs (Disability-Adjusted Life Years),Both,-1.99
+DALYs (Disability-Adjusted Life Years),Female,-0.6
+DALYs (Disability-Adjusted Life Years),Male,-2.5
+Deaths,Both,-1.42
+Deaths,Female,-0.18
+Deaths,Male,-1.94
+Incidence,Both,-0.55
+Incidence,Female,0.59
+Incidence,Male,-1.44

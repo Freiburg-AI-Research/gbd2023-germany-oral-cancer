@@ -1,0 +1,13 @@
+measure_lbl,sex,risk,Attributable 1990,Attributable 2023,PAF % 1990,PAF % 2023
+DALYs,Both,High alcohol use,21310,15140,26.6,22.9
+DALYs,Both,Tobacco,36503,22546,45.5,34.1
+DALYs,Female,High alcohol use,2355,2342,15.5,12.4
+DALYs,Female,Tobacco,4481,4459,29.4,23.5
+DALYs,Male,High alcohol use,18955,12799,29.2,27.2
+DALYs,Male,Tobacco,32021,18088,49.3,38.4
+Deaths,Both,High alcohol use,659,601,24.4,20.5
+Deaths,Both,Tobacco,1141,869,42.2,29.6
+Deaths,Female,High alcohol use,86,101,13.3,10.4
+Deaths,Female,Tobacco,162,186,25.1,19.1
+Deaths,Male,High alcohol use,573,500,27.9,25.5
+Deaths,Male,Tobacco,979,683,47.6,34.8

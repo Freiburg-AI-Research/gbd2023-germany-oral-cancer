@@ -1,0 +1,17 @@
+year,sex,measure,risk,attributable,paf
+1990,Female,DALYs (Disability-Adjusted Life Years),Tobacco,4481.37750532526,29.4
+1990,Female,DALYs (Disability-Adjusted Life Years),High alcohol use,2355.13847296019,15.5
+1990,Female,Deaths,Tobacco,162.363632537295,25.1
+1990,Female,Deaths,High alcohol use,86.0026187294061,13.3
+1990,Male,DALYs (Disability-Adjusted Life Years),Tobacco,32021.4893726672,49.3
+1990,Male,DALYs (Disability-Adjusted Life Years),High alcohol use,18955.0893486928,29.2
+1990,Male,Deaths,Tobacco,978.893996850917,47.6
+1990,Male,Deaths,High alcohol use,573.494614210074,27.9
+2023,Female,DALYs (Disability-Adjusted Life Years),Tobacco,4458.64200435245,23.5
+2023,Female,DALYs (Disability-Adjusted Life Years),High alcohol use,2341.56573238083,12.4
+2023,Female,Deaths,Tobacco,186.110504131546,19.1
+2023,Female,Deaths,High alcohol use,101.340371215789,10.4
+2023,Male,DALYs (Disability-Adjusted Life Years),Tobacco,18087.67700428,38.4
+2023,Male,DALYs (Disability-Adjusted Life Years),High alcohol use,12798.8660465183,27.2
+2023,Male,Deaths,Tobacco,682.619059675704,34.8
+2023,Male,Deaths,High alcohol use,499.955122602164,25.5
