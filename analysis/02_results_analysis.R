@@ -17,7 +17,7 @@ CAUSE_CSV <- file.path(DATA_DIR, "data/gbd_cause",
                       "IHME-GBD_2023_DATA-684738bc-1.csv")
 RISK_CSV  <- file.path(DATA_DIR, "data/gbd_risk",
                       "IHME-GBD_2023_DATA-6a8e77e9-1.csv")
-OUT_DIR <- file.path(DATA_DIR, "output")
+OUT_DIR  <- file.path(DATA_DIR, "output")
 FIG_DIR  <- file.path(OUT_DIR, "figures")
 TBL_DIR  <- file.path(OUT_DIR, "tables")
 DATA_OUT <- file.path(OUT_DIR, "data")
@@ -88,19 +88,25 @@ age_2023[, measure_lbl := factor(measure_lbl, levels = c("Incidence","Deaths","D
 p2 <- ggplot(age_2023, aes(x = age_mid, y = val, colour = sex_name, group = sex_name)) +
   geom_line(linewidth = 0.7) + geom_point(size = 1.3) +
   facet_wrap(~ measure_lbl, scales = "free_y", ncol = 3) +
-  scale_x_continuous(breaks = seq(0, 100, 20),
-                     labels = function(x) paste0(x, "-", x+4)) +
-  scale_y_continuous(labels = comma_format(accuracy = 1)) +
+  # X-axis: place breaks at actual age-group midpoints so the highest label is
+  # "95+" rather than the artefactual "100-104"
+  scale_x_continuous(breaks = c(2.5, 22.5, 42.5, 62.5, 82.5, 97.5),
+                     labels = c("0–4","20–24","40–44","60–64","80–84","95+"),
+                     limits = c(0, 100),
+                     expand = expansion(mult = c(0.02, 0.05))) +
+  scale_y_continuous(labels = comma_format(accuracy = 1), limits = c(0, NA),
+                     expand = expansion(mult = c(0, 0.06))) +
   scale_colour_manual(values = c(Male = "#1f77b4", Female = "#d62728")) +
   labs(x = "Age group (years)", y = "Rate per 100,000",
        colour = NULL,
        title = "Age pattern of lip and oral cavity cancer in Germany, 2023",
-       subtitle = "Sex-specific rates per 100,000 population by 5-year age group") +
+       subtitle = "Sex-specific rates per 100,000 population by 5-year age group; y-axes differ between panels") +
   theme_minimal(base_size = 10) +
   theme(legend.position = "bottom",
         plot.title.position = "plot",
         strip.text = element_text(face = "bold"),
-        panel.grid.minor = element_blank())
+        panel.grid.minor = element_blank(),
+        axis.text.x = element_text(angle = 0))
 
 ggsave(file.path(FIG_DIR, "figure2_germany_age_pattern_2023.pdf"),
        p2, width = W_CM, height = 9, units = "cm", device = "pdf")
@@ -250,51 +256,59 @@ cat("  Comparison table:\n")
 print(comp_w)
 
 # ============================================================================
-# 6. Supplementary Figure: sex-stratified Figure 1
+# 6. Figure 1: sex-stratified observed + projected ASR (Incidence, Deaths, DALYs)
+#    Replaces the former both-sexes Figure 1 (reviewer: pooled-sex results are
+#    uninformative given the sex divergence). Zero-based y-axes.
 # ============================================================================
-cat("\n[6/6] Supplementary Figure: sex-stratified projection...\n")
+cat("\n[6/6] Figure 1: sex-stratified observed and projected ASR...\n")
 
+MEAS3 <- c("Incidence","Deaths","DALYs (Disability-Adjusted Life Years)")
+lbl3  <- function(x) factor(ifelse(x == "Incidence", "Incidence",
+                            ifelse(x == "Deaths", "Deaths", "DALYs")),
+                            levels = c("Incidence","Deaths","DALYs"))
 obs_sx <- d[location_name == "Germany" &
            age_name == "Age-standardized" & metric_name == "Rate" &
-           sex_name %in% c("Male","Female") &
-           measure_name %in% c("Deaths","DALYs (Disability-Adjusted Life Years)"),
+           sex_name %in% c("Male","Female") & measure_name %in% MEAS3,
            .(sex = sex_name, measure = measure_name, year, asr = val,
              asr_lo = lower, asr_hi = upper)]
-proj_sx <- proj[sex %in% c("Male","Female") &
-                measure %in% c("Deaths","DALYs (Disability-Adjusted Life Years)") &
+proj_sx <- proj[sex %in% c("Male","Female") & measure %in% MEAS3 &
                 period_type == "forecast"]
-obs_sx[, measure_lbl := ifelse(measure == "Deaths","Deaths","DALYs")]
-proj_sx[, measure_lbl := ifelse(measure == "Deaths","Deaths","DALYs")]
+obs_sx[,  measure_lbl := lbl3(measure)]
+proj_sx[, measure_lbl := lbl3(measure)]
 
-pS1 <- ggplot() +
-  geom_line(data = obs_sx,
-            aes(x = year, y = asr, colour = sex), linewidth = 0.7) +
+p1 <- ggplot() +
   geom_ribbon(data = obs_sx,
               aes(x = year, ymin = asr_lo, ymax = asr_hi, fill = sex),
               alpha = 0.2, colour = NA) +
+  geom_line(data = obs_sx,
+            aes(x = year, y = asr, colour = sex), linewidth = 0.7) +
   geom_line(data = proj_sx,
             aes(x = period_mid, y = asr_per_100k, colour = sex),
             linewidth = 0.7, linetype = "dashed") +
   geom_point(data = proj_sx,
              aes(x = period_mid, y = asr_per_100k, colour = sex), size = 1.5) +
-  facet_wrap(~ measure_lbl, scales = "free_y", ncol = 2) +
+  facet_wrap(~ measure_lbl, scales = "free_y", ncol = 3) +
   scale_colour_manual(values = c(Male = "#1f77b4", Female = "#d62728")) +
   scale_fill_manual(values = c(Male = "#1f77b4", Female = "#d62728")) +
   scale_x_continuous(breaks = seq(1990, 2040, 10)) +
-  labs(x = "Year", y = "Age-standardized rate per 100,000",
+  scale_y_continuous(limits = c(0, NA), expand = expansion(mult = c(0, 0.06)),
+                     labels = comma_format(accuracy = 1)) +
+  labs(x = "Year", y = "Age-standardised rate per 100,000",
        colour = NULL, fill = NULL,
-       title = "Sex-stratified lip and oral cavity cancer burden in Germany",
-       subtitle = "Age-standardized rates 1990–2023 (solid) and Nordpred projection to 2040 (dashed)") +
-  theme_minimal(base_size = 10) +
+       title = "Lip and oral cavity cancer in Germany by sex: observed 1990–2023 and projected to 2040",
+       subtitle = "GBD 2023 age-standardised rates with 95% UI (shaded); Nordpred projection at period midpoints (dashed).\ny-axes differ between panels.") +
+  theme_minimal(base_size = 9) +
   theme(legend.position = "bottom",
         plot.title.position = "plot",
         strip.text = element_text(face = "bold"),
         panel.grid.minor = element_blank())
 
-ggsave(file.path(FIG_DIR, "figureS1_germany_sex_stratified.pdf"),
-       pS1, width = W_CM, height = 10, units = "cm", device = "pdf")
-ggsave(file.path(FIG_DIR, "figureS1_germany_sex_stratified.png"),
-       pS1, width = W_CM, height = 10, units = "cm", dpi = PNG_DPI)
-cat("  Supplementary Figure written.\n")
+ggsave(file.path(FIG_DIR, "figure1_germany_sex_stratified.pdf"),
+       p1, width = W_CM, height = 8, units = "cm", device = "pdf")
+ggsave(file.path(FIG_DIR, "figure1_germany_sex_stratified.png"),
+       p1, width = W_CM, height = 8, units = "cm", dpi = PNG_DPI)
+ggsave(file.path(FIG_DIR, "figure1_germany_sex_stratified.tif"),   # submission-grade raster (cairo, 600 dpi)
+       p1, width = W_CM, height = 8, units = "cm", dpi = 600, device = "tiff", compression = "lzw", type = "cairo")
+cat("  Figure 1 (sex-stratified) written.\n")
 
 cat("\nAll analyses complete.\n")

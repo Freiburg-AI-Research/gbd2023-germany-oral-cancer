@@ -1,0 +1,433 @@
+sex,measure,scenario,period,age,count
+Both,Incidence,static,2019-2023,<5 years,0
+Both,Incidence,static,2019-2023,5-9 years,0
+Both,Incidence,static,2019-2023,10-14 years,0
+Both,Incidence,static,2019-2023,15-19 years,6
+Both,Incidence,static,2019-2023,20-24 years,11.8
+Both,Incidence,static,2019-2023,25-29 years,17
+Both,Incidence,static,2019-2023,30-34 years,29.6
+Both,Incidence,static,2019-2023,35-39 years,54.2
+Both,Incidence,static,2019-2023,40-44 years,101.6
+Both,Incidence,static,2019-2023,45-49 years,188.4
+Both,Incidence,static,2019-2023,50-54 years,513.6
+Both,Incidence,static,2019-2023,55-59 years,996.6
+Both,Incidence,static,2019-2023,60-64 years,1176
+Both,Incidence,static,2019-2023,65-69 years,1223.4
+Both,Incidence,static,2019-2023,70-74 years,954.4
+Both,Incidence,static,2019-2023,75-79 years,858
+Both,Incidence,static,2019-2023,80-84 years,839.2
+Both,Incidence,static,2019-2023,85+ years,759
+Both,Incidence,static,2039-2043,<5 years,0
+Both,Incidence,static,2039-2043,5-9 years,0
+Both,Incidence,static,2039-2043,10-14 years,0
+Both,Incidence,static,2039-2043,15-19 years,6.31346800113648
+Both,Incidence,static,2039-2043,20-24 years,13.1990534211697
+Both,Incidence,static,2039-2043,25-29 years,11.2928145891323
+Both,Incidence,static,2039-2043,30-34 years,20.4695629093923
+Both,Incidence,static,2039-2043,35-39 years,38.7508150517758
+Both,Incidence,static,2039-2043,40-44 years,75.403033521383
+Both,Incidence,static,2039-2043,45-49 years,139.091506934517
+Both,Incidence,static,2039-2043,50-54 years,305.717619438949
+Both,Incidence,static,2039-2043,55-59 years,497.269333741787
+Both,Incidence,static,2039-2043,60-64 years,526.272721833833
+Both,Incidence,static,2039-2043,65-69 years,539.515964816046
+Both,Incidence,static,2039-2043,70-74 years,536.911720707349
+Both,Incidence,static,2039-2043,75-79 years,598.970490277988
+Both,Incidence,static,2039-2043,80-84 years,831.293451899805
+Both,Incidence,static,2039-2043,85+ years,888.807640306349
+Both,Incidence,WPP 2024,2019-2023,<5 years,0
+Both,Incidence,WPP 2024,2019-2023,5-9 years,0
+Both,Incidence,WPP 2024,2019-2023,10-14 years,0
+Both,Incidence,WPP 2024,2019-2023,15-19 years,6
+Both,Incidence,WPP 2024,2019-2023,20-24 years,11.8
+Both,Incidence,WPP 2024,2019-2023,25-29 years,17
+Both,Incidence,WPP 2024,2019-2023,30-34 years,29.6
+Both,Incidence,WPP 2024,2019-2023,35-39 years,54.2
+Both,Incidence,WPP 2024,2019-2023,40-44 years,101.6
+Both,Incidence,WPP 2024,2019-2023,45-49 years,188.4
+Both,Incidence,WPP 2024,2019-2023,50-54 years,513.6
+Both,Incidence,WPP 2024,2019-2023,55-59 years,996.6
+Both,Incidence,WPP 2024,2019-2023,60-64 years,1176
+Both,Incidence,WPP 2024,2019-2023,65-69 years,1223.4
+Both,Incidence,WPP 2024,2019-2023,70-74 years,954.4
+Both,Incidence,WPP 2024,2019-2023,75-79 years,858
+Both,Incidence,WPP 2024,2019-2023,80-84 years,839.2
+Both,Incidence,WPP 2024,2019-2023,85+ years,759
+Both,Incidence,WPP 2024,2039-2043,<5 years,0
+Both,Incidence,WPP 2024,2039-2043,5-9 years,0
+Both,Incidence,WPP 2024,2039-2043,10-14 years,0
+Both,Incidence,WPP 2024,2039-2043,15-19 years,6.22361134158531
+Both,Incidence,WPP 2024,2039-2043,20-24 years,13.2526981498041
+Both,Incidence,WPP 2024,2039-2043,25-29 years,10.4491318022242
+Both,Incidence,WPP 2024,2039-2043,30-34 years,16.4049837301352
+Both,Incidence,WPP 2024,2039-2043,35-39 years,30.131618874669
+Both,Incidence,WPP 2024,2039-2043,40-44 years,64.7590087278923
+Both,Incidence,WPP 2024,2039-2043,45-49 years,134.280957020519
+Both,Incidence,WPP 2024,2039-2043,50-54 years,264.604331285319
+Both,Incidence,WPP 2024,2039-2043,55-59 years,382.831070198531
+Both,Incidence,WPP 2024,2039-2043,60-64 years,425.203276057366
+Both,Incidence,WPP 2024,2039-2043,65-69 years,513.955388322055
+Both,Incidence,WPP 2024,2039-2043,70-74 years,724.90848047982
+Both,Incidence,WPP 2024,2039-2043,75-79 years,969.941924190137
+Both,Incidence,WPP 2024,2039-2043,80-84 years,1022.54037338337
+Both,Incidence,WPP 2024,2039-2043,85+ years,1364.82287990636
+Both,Deaths,static,2019-2023,<5 years,0
+Both,Deaths,static,2019-2023,5-9 years,0
+Both,Deaths,static,2019-2023,10-14 years,0
+Both,Deaths,static,2019-2023,15-19 years,0.6
+Both,Deaths,static,2019-2023,20-24 years,1
+Both,Deaths,static,2019-2023,25-29 years,2
+Both,Deaths,static,2019-2023,30-34 years,4.2
+Both,Deaths,static,2019-2023,35-39 years,9.6
+Both,Deaths,static,2019-2023,40-44 years,22.2
+Both,Deaths,static,2019-2023,45-49 years,49
+Both,Deaths,static,2019-2023,50-54 years,152.6
+Both,Deaths,static,2019-2023,55-59 years,314.4
+Both,Deaths,static,2019-2023,60-64 years,389.2
+Both,Deaths,static,2019-2023,65-69 years,413.2
+Both,Deaths,static,2019-2023,70-74 years,349
+Both,Deaths,static,2019-2023,75-79 years,329.6
+Both,Deaths,static,2019-2023,80-84 years,377.4
+Both,Deaths,static,2019-2023,85+ years,476.6
+Both,Deaths,static,2039-2043,<5 years,0
+Both,Deaths,static,2039-2043,5-9 years,0
+Both,Deaths,static,2039-2043,10-14 years,0
+Both,Deaths,static,2039-2043,15-19 years,0.584011542950933
+Both,Deaths,static,2039-2043,20-24 years,1.09181514224989
+Both,Deaths,static,2039-2043,25-29 years,1.08971686804037
+Both,Deaths,static,2039-2043,30-34 years,2.69374464349613
+Both,Deaths,static,2039-2043,35-39 years,6.39396655950547
+Both,Deaths,static,2039-2043,40-44 years,15.4558497142224
+Both,Deaths,static,2039-2043,45-49 years,35.533642855087
+Both,Deaths,static,2039-2043,50-54 years,85.1246565027715
+Both,Deaths,static,2039-2043,55-59 years,152.763947371535
+Both,Deaths,static,2039-2043,60-64 years,172.013333443921
+Both,Deaths,static,2039-2043,65-69 years,180.35242142581
+Both,Deaths,static,2039-2043,70-74 years,191.8672177198
+Both,Deaths,static,2039-2043,75-79 years,224.309972231312
+Both,Deaths,static,2039-2043,80-84 years,351.386163516687
+Both,Deaths,static,2039-2043,85+ years,517.25151235119
+Both,Deaths,WPP 2024,2019-2023,<5 years,0
+Both,Deaths,WPP 2024,2019-2023,5-9 years,0
+Both,Deaths,WPP 2024,2019-2023,10-14 years,0
+Both,Deaths,WPP 2024,2019-2023,15-19 years,0.6
+Both,Deaths,WPP 2024,2019-2023,20-24 years,1
+Both,Deaths,WPP 2024,2019-2023,25-29 years,2
+Both,Deaths,WPP 2024,2019-2023,30-34 years,4.2
+Both,Deaths,WPP 2024,2019-2023,35-39 years,9.6
+Both,Deaths,WPP 2024,2019-2023,40-44 years,22.2
+Both,Deaths,WPP 2024,2019-2023,45-49 years,49
+Both,Deaths,WPP 2024,2019-2023,50-54 years,152.6
+Both,Deaths,WPP 2024,2019-2023,55-59 years,314.4
+Both,Deaths,WPP 2024,2019-2023,60-64 years,389.2
+Both,Deaths,WPP 2024,2019-2023,65-69 years,413.2
+Both,Deaths,WPP 2024,2019-2023,70-74 years,349
+Both,Deaths,WPP 2024,2019-2023,75-79 years,329.6
+Both,Deaths,WPP 2024,2019-2023,80-84 years,377.4
+Both,Deaths,WPP 2024,2019-2023,85+ years,476.6
+Both,Deaths,WPP 2024,2039-2043,<5 years,0
+Both,Deaths,WPP 2024,2039-2043,5-9 years,0
+Both,Deaths,WPP 2024,2039-2043,10-14 years,0
+Both,Deaths,WPP 2024,2039-2043,15-19 years,0.575699577748982
+Both,Deaths,WPP 2024,2039-2043,20-24 years,1.09625259130265
+Both,Deaths,WPP 2024,2039-2043,25-29 years,1.00830444805958
+Both,Deaths,WPP 2024,2039-2043,30-34 years,2.1588559191697
+Both,Deaths,WPP 2024,2039-2043,35-39 years,4.97178093444229
+Both,Deaths,WPP 2024,2039-2043,40-44 years,13.274074792458
+Both,Deaths,WPP 2024,2039-2043,45-49 years,34.3046938965979
+Both,Deaths,WPP 2024,2039-2043,50-54 years,73.6769861388504
+Both,Deaths,WPP 2024,2039-2043,55-59 years,117.607866586018
+Both,Deaths,WPP 2024,2039-2043,60-64 years,138.978574931751
+Both,Deaths,WPP 2024,2039-2043,65-69 years,171.807888614287
+Both,Deaths,WPP 2024,2039-2043,70-74 years,259.048495100717
+Both,Deaths,WPP 2024,2039-2043,75-79 years,363.236001793907
+Both,Deaths,WPP 2024,2039-2043,80-84 years,432.225874055691
+Both,Deaths,WPP 2024,2039-2043,85+ years,794.27388639444
+Male,Incidence,static,2019-2023,<5 years,0
+Male,Incidence,static,2019-2023,5-9 years,0
+Male,Incidence,static,2019-2023,10-14 years,0
+Male,Incidence,static,2019-2023,15-19 years,2.4
+Male,Incidence,static,2019-2023,20-24 years,4.8
+Male,Incidence,static,2019-2023,25-29 years,7
+Male,Incidence,static,2019-2023,30-34 years,13.8
+Male,Incidence,static,2019-2023,35-39 years,30.4
+Male,Incidence,static,2019-2023,40-44 years,65.8
+Male,Incidence,static,2019-2023,45-49 years,128.8
+Male,Incidence,static,2019-2023,50-54 years,385
+Male,Incidence,static,2019-2023,55-59 years,760.2
+Male,Incidence,static,2019-2023,60-64 years,861.6
+Male,Incidence,static,2019-2023,65-69 years,846.2
+Male,Incidence,static,2019-2023,70-74 years,639.8
+Male,Incidence,static,2019-2023,75-79 years,527
+Male,Incidence,static,2019-2023,80-84 years,449
+Male,Incidence,static,2019-2023,85+ years,329
+Male,Incidence,static,2039-2043,<5 years,0
+Male,Incidence,static,2039-2043,5-9 years,0
+Male,Incidence,static,2039-2043,10-14 years,0
+Male,Incidence,static,2039-2043,15-19 years,2.42300593510668
+Male,Incidence,static,2039-2043,20-24 years,5.46500778415473
+Male,Incidence,static,2039-2043,25-29 years,3.74988245029261
+Male,Incidence,static,2039-2043,30-34 years,8.66302572768903
+Male,Incidence,static,2039-2043,35-39 years,19.3702386964043
+Male,Incidence,static,2039-2043,40-44 years,44.3152748628377
+Male,Incidence,static,2039-2043,45-49 years,88.0572035205271
+Male,Incidence,static,2039-2043,50-54 years,201.013296078317
+Male,Incidence,static,2039-2043,55-59 years,347.458717727234
+Male,Incidence,static,2039-2043,60-64 years,365.149504655002
+Male,Incidence,static,2039-2043,65-69 years,371.075685450635
+Male,Incidence,static,2039-2043,70-74 years,363.181272423145
+Male,Incidence,static,2039-2043,75-79 years,372.057355513515
+Male,Incidence,static,2039-2043,80-84 years,446.435752175387
+Male,Incidence,static,2039-2043,85+ years,385.414663418332
+Male,Incidence,WPP 2024,2019-2023,<5 years,0
+Male,Incidence,WPP 2024,2019-2023,5-9 years,0
+Male,Incidence,WPP 2024,2019-2023,10-14 years,0
+Male,Incidence,WPP 2024,2019-2023,15-19 years,2.4
+Male,Incidence,WPP 2024,2019-2023,20-24 years,4.8
+Male,Incidence,WPP 2024,2019-2023,25-29 years,7
+Male,Incidence,WPP 2024,2019-2023,30-34 years,13.8
+Male,Incidence,WPP 2024,2019-2023,35-39 years,30.4
+Male,Incidence,WPP 2024,2019-2023,40-44 years,65.8
+Male,Incidence,WPP 2024,2019-2023,45-49 years,128.8
+Male,Incidence,WPP 2024,2019-2023,50-54 years,385
+Male,Incidence,WPP 2024,2019-2023,55-59 years,760.2
+Male,Incidence,WPP 2024,2019-2023,60-64 years,861.6
+Male,Incidence,WPP 2024,2019-2023,65-69 years,846.2
+Male,Incidence,WPP 2024,2019-2023,70-74 years,639.8
+Male,Incidence,WPP 2024,2019-2023,75-79 years,527
+Male,Incidence,WPP 2024,2019-2023,80-84 years,449
+Male,Incidence,WPP 2024,2019-2023,85+ years,329
+Male,Incidence,WPP 2024,2039-2043,<5 years,0
+Male,Incidence,WPP 2024,2039-2043,5-9 years,0
+Male,Incidence,WPP 2024,2039-2043,10-14 years,0
+Male,Incidence,WPP 2024,2039-2043,15-19 years,2.36610338053643
+Male,Incidence,WPP 2024,2039-2043,20-24 years,5.37156354022495
+Male,Incidence,WPP 2024,2039-2043,25-29 years,3.40708641157169
+Male,Incidence,WPP 2024,2039-2043,30-34 years,6.88985218522803
+Male,Incidence,WPP 2024,2039-2043,35-39 years,15.2084960808594
+Male,Incidence,WPP 2024,2039-2043,40-44 years,39.4549461610703
+Male,Incidence,WPP 2024,2039-2043,45-49 years,87.9497745496702
+Male,Incidence,WPP 2024,2039-2043,50-54 years,177.57641862527
+Male,Incidence,WPP 2024,2039-2043,55-59 years,269.166411671126
+Male,Incidence,WPP 2024,2039-2043,60-64 years,296.173393534524
+Male,Incidence,WPP 2024,2039-2043,65-69 years,360.412245345962
+Male,Incidence,WPP 2024,2039-2043,70-74 years,506.156361692419
+Male,Incidence,WPP 2024,2039-2043,75-79 years,630.007896105288
+Male,Incidence,WPP 2024,2039-2043,80-84 years,587.192598644862
+Male,Incidence,WPP 2024,2039-2043,85+ years,666.072221726594
+Male,Deaths,static,2019-2023,<5 years,0
+Male,Deaths,static,2019-2023,5-9 years,0
+Male,Deaths,static,2019-2023,10-14 years,0
+Male,Deaths,static,2019-2023,15-19 years,0.2
+Male,Deaths,static,2019-2023,20-24 years,0.6
+Male,Deaths,static,2019-2023,25-29 years,1
+Male,Deaths,static,2019-2023,30-34 years,2.4
+Male,Deaths,static,2019-2023,35-39 years,6.4
+Male,Deaths,static,2019-2023,40-44 years,16
+Male,Deaths,static,2019-2023,45-49 years,37.2
+Male,Deaths,static,2019-2023,50-54 years,123.2
+Male,Deaths,static,2019-2023,55-59 years,255
+Male,Deaths,static,2019-2023,60-64 years,305.4
+Male,Deaths,static,2019-2023,65-69 years,307.2
+Male,Deaths,static,2019-2023,70-74 years,248.2
+Male,Deaths,static,2019-2023,75-79 years,215
+Male,Deaths,static,2019-2023,80-84 years,214.6
+Male,Deaths,static,2019-2023,85+ years,212.4
+Male,Deaths,static,2039-2043,<5 years,0
+Male,Deaths,static,2039-2043,5-9 years,0
+Male,Deaths,static,2039-2043,10-14 years,0
+Male,Deaths,static,2039-2043,15-19 years,0.194077379623696
+Male,Deaths,static,2039-2043,20-24 years,0.596613656527697
+Male,Deaths,static,2039-2043,25-29 years,0.416673058271936
+Male,Deaths,static,2039-2043,30-34 years,1.26346475905178
+Male,Deaths,static,2039-2043,35-39 years,3.68313653932099
+Male,Deaths,static,2039-2043,40-44 years,10.1471361080257
+Male,Deaths,static,2039-2043,45-49 years,25.6094696762364
+Male,Deaths,static,2039-2043,50-54 years,65.3974004183546
+Male,Deaths,static,2039-2043,55-59 years,120.331993732639
+Male,Deaths,static,2039-2043,60-64 years,131.231036010912
+Male,Deaths,static,2039-2043,65-69 years,134.657234934039
+Male,Deaths,static,2039-2043,70-74 years,137.497708473061
+Male,Deaths,static,2039-2043,75-79 years,145.868688112513
+Male,Deaths,static,2039-2043,80-84 years,197.959516672938
+Male,Deaths,static,2039-2043,85+ years,229.108798190423
+Male,Deaths,WPP 2024,2019-2023,<5 years,0
+Male,Deaths,WPP 2024,2019-2023,5-9 years,0
+Male,Deaths,WPP 2024,2019-2023,10-14 years,0
+Male,Deaths,WPP 2024,2019-2023,15-19 years,0.2
+Male,Deaths,WPP 2024,2019-2023,20-24 years,0.6
+Male,Deaths,WPP 2024,2019-2023,25-29 years,1
+Male,Deaths,WPP 2024,2019-2023,30-34 years,2.4
+Male,Deaths,WPP 2024,2019-2023,35-39 years,6.4
+Male,Deaths,WPP 2024,2019-2023,40-44 years,16
+Male,Deaths,WPP 2024,2019-2023,45-49 years,37.2
+Male,Deaths,WPP 2024,2019-2023,50-54 years,123.2
+Male,Deaths,WPP 2024,2019-2023,55-59 years,255
+Male,Deaths,WPP 2024,2019-2023,60-64 years,305.4
+Male,Deaths,WPP 2024,2019-2023,65-69 years,307.2
+Male,Deaths,WPP 2024,2019-2023,70-74 years,248.2
+Male,Deaths,WPP 2024,2019-2023,75-79 years,215
+Male,Deaths,WPP 2024,2019-2023,80-84 years,214.6
+Male,Deaths,WPP 2024,2019-2023,85+ years,212.4
+Male,Deaths,WPP 2024,2039-2043,<5 years,0
+Male,Deaths,WPP 2024,2039-2043,5-9 years,0
+Male,Deaths,WPP 2024,2039-2043,10-14 years,0
+Male,Deaths,WPP 2024,2039-2043,15-19 years,0.189519611718412
+Male,Deaths,WPP 2024,2039-2043,20-24 years,0.586412369682826
+Male,Deaths,WPP 2024,2039-2043,25-29 years,0.378582831255809
+Male,Deaths,WPP 2024,2039-2043,30-34 years,1.00485508236834
+Male,Deaths,WPP 2024,2039-2043,35-39 years,2.89180574908642
+Male,Deaths,WPP 2024,2039-2043,40-44 years,9.03423729334618
+Male,Deaths,WPP 2024,2039-2043,45-49 years,25.5782263609681
+Male,Deaths,WPP 2024,2039-2043,50-54 years,57.7724776433289
+Male,Deaths,WPP 2024,2039-2043,55-59 years,93.2177818824557
+Male,Deaths,WPP 2024,2039-2043,60-64 years,106.441719835094
+Male,Deaths,WPP 2024,2039-2043,65-69 years,130.787648713025
+Male,Deaths,WPP 2024,2039-2043,70-74 years,191.62700597815
+Male,Deaths,WPP 2024,2039-2043,75-79 years,247.000694768084
+Male,Deaths,WPP 2024,2039-2043,80-84 years,260.374225082257
+Male,Deaths,WPP 2024,2039-2043,85+ years,395.944993048154
+Female,Incidence,static,2019-2023,<5 years,0
+Female,Incidence,static,2019-2023,5-9 years,0
+Female,Incidence,static,2019-2023,10-14 years,0
+Female,Incidence,static,2019-2023,15-19 years,3.6
+Female,Incidence,static,2019-2023,20-24 years,7
+Female,Incidence,static,2019-2023,25-29 years,10
+Female,Incidence,static,2019-2023,30-34 years,15.8
+Female,Incidence,static,2019-2023,35-39 years,24
+Female,Incidence,static,2019-2023,40-44 years,35.8
+Female,Incidence,static,2019-2023,45-49 years,59.6
+Female,Incidence,static,2019-2023,50-54 years,128.6
+Female,Incidence,static,2019-2023,55-59 years,236.4
+Female,Incidence,static,2019-2023,60-64 years,314.2
+Female,Incidence,static,2019-2023,65-69 years,377.2
+Female,Incidence,static,2019-2023,70-74 years,314.8
+Female,Incidence,static,2019-2023,75-79 years,331.2
+Female,Incidence,static,2019-2023,80-84 years,390.2
+Female,Incidence,static,2019-2023,85+ years,430
+Female,Incidence,static,2039-2043,<5 years,0
+Female,Incidence,static,2039-2043,5-9 years,0
+Female,Incidence,static,2039-2043,10-14 years,0
+Female,Incidence,static,2039-2043,15-19 years,3.80159977394625
+Female,Incidence,static,2039-2043,20-24 years,7.73032087073135
+Female,Incidence,static,2039-2043,25-29 years,7.84640751249624
+Female,Incidence,static,2039-2043,30-34 years,11.5615828846646
+Female,Incidence,static,2039-2043,35-39 years,18.3609836014622
+Female,Incidence,static,2039-2043,40-44 years,27.952702661265
+Female,Incidence,static,2039-2043,45-49 years,46.4934873105739
+Female,Incidence,static,2039-2043,50-54 years,96.5493159577004
+Female,Incidence,static,2039-2043,55-59 years,150.102698435938
+Female,Incidence,static,2039-2043,60-64 years,172.097923548147
+Female,Incidence,static,2039-2043,65-69 years,183.752395746748
+Female,Incidence,static,2039-2043,70-74 years,187.374034540989
+Female,Incidence,static,2039-2043,75-79 years,237.876414352176
+Female,Incidence,static,2039-2043,80-84 years,394.022996626277
+Female,Incidence,static,2039-2043,85+ years,509.865290624766
+Female,Incidence,WPP 2024,2019-2023,<5 years,0
+Female,Incidence,WPP 2024,2019-2023,5-9 years,0
+Female,Incidence,WPP 2024,2019-2023,10-14 years,0
+Female,Incidence,WPP 2024,2019-2023,15-19 years,3.6
+Female,Incidence,WPP 2024,2019-2023,20-24 years,7
+Female,Incidence,WPP 2024,2019-2023,25-29 years,10
+Female,Incidence,WPP 2024,2019-2023,30-34 years,15.8
+Female,Incidence,WPP 2024,2019-2023,35-39 years,24
+Female,Incidence,WPP 2024,2019-2023,40-44 years,35.8
+Female,Incidence,WPP 2024,2019-2023,45-49 years,59.6
+Female,Incidence,WPP 2024,2019-2023,50-54 years,128.6
+Female,Incidence,WPP 2024,2019-2023,55-59 years,236.4
+Female,Incidence,WPP 2024,2019-2023,60-64 years,314.2
+Female,Incidence,WPP 2024,2019-2023,65-69 years,377.2
+Female,Incidence,WPP 2024,2019-2023,70-74 years,314.8
+Female,Incidence,WPP 2024,2019-2023,75-79 years,331.2
+Female,Incidence,WPP 2024,2019-2023,80-84 years,390.2
+Female,Incidence,WPP 2024,2019-2023,85+ years,430
+Female,Incidence,WPP 2024,2039-2043,<5 years,0
+Female,Incidence,WPP 2024,2039-2043,5-9 years,0
+Female,Incidence,WPP 2024,2039-2043,10-14 years,0
+Female,Incidence,WPP 2024,2039-2043,15-19 years,3.78517142207272
+Female,Incidence,WPP 2024,2039-2043,20-24 years,7.94078084663767
+Female,Incidence,WPP 2024,2039-2043,25-29 years,7.40262702231656
+Female,Incidence,WPP 2024,2039-2043,30-34 years,9.3409887572292
+Female,Incidence,WPP 2024,2039-2043,35-39 years,14.1332361175135
+Female,Incidence,WPP 2024,2039-2043,40-44 years,23.1197501755393
+Female,Incidence,WPP 2024,2039-2043,45-49 years,43.3333171030653
+Female,Incidence,WPP 2024,2039-2043,50-54 years,81.8262620467802
+Female,Incidence,WPP 2024,2039-2043,55-59 years,114.83733297699
+Female,Incidence,WPP 2024,2039-2043,60-64 years,138.521050751071
+Female,Incidence,WPP 2024,2039-2043,65-69 years,171.916592008015
+Female,Incidence,WPP 2024,2039-2043,70-74 years,245.887879544867
+Female,Incidence,WPP 2024,2039-2043,75-79 years,370.95261830388
+Female,Incidence,WPP 2024,2039-2043,80-84 years,460.54264056543
+Female,Incidence,WPP 2024,2039-2043,85+ years,729.890309154748
+Female,Deaths,static,2019-2023,<5 years,0
+Female,Deaths,static,2019-2023,5-9 years,0
+Female,Deaths,static,2019-2023,10-14 years,0
+Female,Deaths,static,2019-2023,15-19 years,0.2
+Female,Deaths,static,2019-2023,20-24 years,0.4
+Female,Deaths,static,2019-2023,25-29 years,1
+Female,Deaths,static,2019-2023,30-34 years,1.8
+Female,Deaths,static,2019-2023,35-39 years,3.4
+Female,Deaths,static,2019-2023,40-44 years,6.2
+Female,Deaths,static,2019-2023,45-49 years,11.8
+Female,Deaths,static,2019-2023,50-54 years,29.4
+Female,Deaths,static,2019-2023,55-59 years,59.2
+Female,Deaths,static,2019-2023,60-64 years,83.8
+Female,Deaths,static,2019-2023,65-69 years,106
+Female,Deaths,static,2019-2023,70-74 years,100.8
+Female,Deaths,static,2019-2023,75-79 years,114.6
+Female,Deaths,static,2019-2023,80-84 years,162.8
+Female,Deaths,static,2019-2023,85+ years,264
+Female,Deaths,static,2039-2043,<5 years,0
+Female,Deaths,static,2039-2043,5-9 years,0
+Female,Deaths,static,2039-2043,10-14 years,0
+Female,Deaths,static,2039-2043,15-19 years,0.195314274950515
+Female,Deaths,static,2039-2043,20-24 years,0.49513866540194
+Female,Deaths,static,2039-2043,25-29 years,0.703497540320686
+Female,Deaths,static,2039-2043,30-34 years,1.40661940550854
+Female,Deaths,static,2039-2043,35-39 years,2.65490889978782
+Female,Deaths,static,2039-2043,40-44 years,5.07340455072332
+Female,Deaths,static,2039-2043,45-49 years,9.4105188841845
+Female,Deaths,static,2039-2043,50-54 years,20.377388078737
+Female,Deaths,static,2039-2043,55-59 years,36.5136375127857
+Female,Deaths,static,2039-2043,60-64 years,44.1868977191627
+Female,Deaths,static,2039-2043,65-69 years,50.7228772712492
+Female,Deaths,static,2039-2043,70-74 years,59.2861188615421
+Female,Deaths,static,2039-2043,75-79 years,82.7780654461619
+Female,Deaths,static,2039-2043,80-84 years,158.309952456445
+Female,Deaths,static,2039-2043,85+ years,293.942871798954
+Female,Deaths,WPP 2024,2019-2023,<5 years,0
+Female,Deaths,WPP 2024,2019-2023,5-9 years,0
+Female,Deaths,WPP 2024,2019-2023,10-14 years,0
+Female,Deaths,WPP 2024,2019-2023,15-19 years,0.2
+Female,Deaths,WPP 2024,2019-2023,20-24 years,0.4
+Female,Deaths,WPP 2024,2019-2023,25-29 years,1
+Female,Deaths,WPP 2024,2019-2023,30-34 years,1.8
+Female,Deaths,WPP 2024,2019-2023,35-39 years,3.4
+Female,Deaths,WPP 2024,2019-2023,40-44 years,6.2
+Female,Deaths,WPP 2024,2019-2023,45-49 years,11.8
+Female,Deaths,WPP 2024,2019-2023,50-54 years,29.4
+Female,Deaths,WPP 2024,2019-2023,55-59 years,59.2
+Female,Deaths,WPP 2024,2019-2023,60-64 years,83.8
+Female,Deaths,WPP 2024,2019-2023,65-69 years,106
+Female,Deaths,WPP 2024,2019-2023,70-74 years,100.8
+Female,Deaths,WPP 2024,2019-2023,75-79 years,114.6
+Female,Deaths,WPP 2024,2019-2023,80-84 years,162.8
+Female,Deaths,WPP 2024,2019-2023,85+ years,264
+Female,Deaths,WPP 2024,2039-2043,<5 years,0
+Female,Deaths,WPP 2024,2039-2043,5-9 years,0
+Female,Deaths,WPP 2024,2039-2043,10-14 years,0
+Female,Deaths,WPP 2024,2039-2043,15-19 years,0.194470237747546
+Female,Deaths,WPP 2024,2039-2043,20-24 years,0.508618943041712
+Female,Deaths,WPP 2024,2039-2043,25-29 years,0.663708823917302
+Female,Deaths,WPP 2024,2039-2043,30-34 years,1.13645477298937
+Female,Deaths,WPP 2024,2039-2043,35-39 years,2.0435971822397
+Female,Deaths,WPP 2024,2039-2043,40-44 years,4.1962255733819
+Female,Deaths,WPP 2024,2039-2043,45-49 years,8.77088432167303
+Female,Deaths,WPP 2024,2039-2043,50-54 years,17.2699876764522
+Female,Deaths,WPP 2024,2039-2043,55-59 years,27.9350657446512
+Female,Deaths,WPP 2024,2039-2043,60-64 years,35.565888160049
+Female,Deaths,WPP 2024,2039-2043,65-69 years,47.4557306416534
+Female,Deaths,WPP 2024,2039-2043,70-74 years,77.8002036889797
+Female,Deaths,WPP 2024,2039-2043,75-79 years,129.086947098208
+Female,Deaths,WPP 2024,2039-2043,80-84 years,185.036112501968
+Female,Deaths,WPP 2024,2039-2043,85+ years,420.789682130185

@@ -22,7 +22,7 @@ suppressPackageStartupMessages({
 DATA_DIR <- "."  # repository root
 CAUSE_CSV <- file.path(DATA_DIR, "data/gbd_cause",
                       "IHME-GBD_2023_DATA-684738bc-1.csv")
-OUT_DIR <- file.path(DATA_DIR, "output")
+OUT_DIR  <- file.path(DATA_DIR, "output")
 FIG_DIR  <- file.path(OUT_DIR, "figures")
 TBL_DIR  <- file.path(OUT_DIR, "tables")
 DATA_OUT <- file.path(OUT_DIR, "data")
@@ -304,11 +304,15 @@ p1 <- ggplot() +
         strip.text = element_text(face = "bold"),
         panel.grid.minor = element_blank())
 
-ggsave(file.path(FIG_DIR, "figure1_germany_asr_trend_forecast.pdf"),
+# Both-sexes figure retained for reference only; the manuscript's Figure 1 is the
+# sex-stratified version produced by 02_results_analysis.R (pooled-sex rates are
+# uninformative given the sex divergence).
+SUP_DIR <- file.path(FIG_DIR, "_superseded"); dir.create(SUP_DIR, showWarnings = FALSE)
+ggsave(file.path(SUP_DIR, "bothsexes_asr_trend_forecast.pdf"),
        p1, width = W_CM, height = H_CM, units = "cm", device = "pdf")
-ggsave(file.path(FIG_DIR, "figure1_germany_asr_trend_forecast.png"),
+ggsave(file.path(SUP_DIR, "bothsexes_asr_trend_forecast.png"),
        p1, width = W_CM, height = H_CM, units = "cm", dpi = PNG_DPI)
-cat("\nFigure 1 written to:", FIG_DIR, "\n")
+cat("\nBoth-sexes reference figure written to:", SUP_DIR, "\n")
 
 # ---- Summary printout -----------------------------------------------------
 cat("\n=== Summary: ASR per 100,000 (Both sexes) ===\n")

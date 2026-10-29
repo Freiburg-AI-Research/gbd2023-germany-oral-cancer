@@ -1,0 +1,17 @@
+measure,sex,group,asr_mean,total,share_pct
+Incidence,Male,Lip (C00),0.36,6.16,5.84415584415585
+Incidence,Male,Base of tongue (C01),1.02,6.16,16.5584415584416
+Incidence,Male,Oral cavity (C02-C06),4.06,6.16,65.9090909090909
+Incidence,Male,Major salivary glands (C07-C08),0.72,6.16,11.6883116883117
+Incidence,Female,Lip (C00),0.18,3.1,5.80645161290323
+Incidence,Female,Base of tongue (C01),0.3,3.1,9.67741935483871
+Incidence,Female,Oral cavity (C02-C06),2.1,3.1,67.741935483871
+Incidence,Female,Major salivary glands (C07-C08),0.52,3.1,16.7741935483871
+Deaths,Male,Lip (C00),0,1.68,0
+Deaths,Male,Base of tongue (C01),0.42,1.68,25
+Deaths,Male,Oral cavity (C02-C06),1.06,1.68,63.0952380952381
+Deaths,Male,Major salivary glands (C07-C08),0.2,1.68,11.9047619047619
+Deaths,Female,Lip (C00),0,0.6,0
+Deaths,Female,Base of tongue (C01),0.12,0.6,20
+Deaths,Female,Oral cavity (C02-C06),0.38,0.6,63.3333333333333
+Deaths,Female,Major salivary glands (C07-C08),0.1,0.6,16.6666666666667

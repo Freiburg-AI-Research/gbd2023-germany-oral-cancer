@@ -10,10 +10,10 @@ suppressPackageStartupMessages({
   library(scales); library(nordpred); library(wpp2024)
 })
 
-DATA_DIR <- "C:/Users/babak/Downloads/GBD"
-CAUSE_CSV <- file.path(DATA_DIR, "IHME-GBD_2023_DATA-684738bc-1",
+DATA_DIR <- "."  # repository root
+CAUSE_CSV <- file.path(DATA_DIR, "data/gbd_cause",
                       "IHME-GBD_2023_DATA-684738bc-1.csv")
-OUT_DIR  <- file.path(DATA_DIR, "analysis", "output")
+OUT_DIR  <- file.path(DATA_DIR, "output")
 FIG_DIR  <- file.path(OUT_DIR, "figures")
 TBL_DIR  <- file.path(OUT_DIR, "tables")
 DATA_OUT <- file.path(OUT_DIR, "data")

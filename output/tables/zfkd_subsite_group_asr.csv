@@ -1,0 +1,801 @@
+standard_short,sex,year,group,measure,asr
+Europe1976,Female,1999,Lip (C00),Incidence,0.2
+Europe1976,Female,2000,Lip (C00),Incidence,0.2
+Europe1976,Female,2001,Lip (C00),Incidence,0.2
+Europe1976,Female,2002,Lip (C00),Incidence,0.2
+Europe1976,Female,2003,Lip (C00),Incidence,0.2
+Europe1976,Female,2004,Lip (C00),Incidence,0.2
+Europe1976,Female,2005,Lip (C00),Incidence,0.2
+Europe1976,Female,2006,Lip (C00),Incidence,0.2
+Europe1976,Female,2007,Lip (C00),Incidence,0.2
+Europe1976,Female,2008,Lip (C00),Incidence,0.2
+Europe1976,Female,2009,Lip (C00),Incidence,0.2
+Europe1976,Female,2010,Lip (C00),Incidence,0.2
+Europe1976,Female,2011,Lip (C00),Incidence,0.3
+Europe1976,Female,2012,Lip (C00),Incidence,0.2
+Europe1976,Female,2013,Lip (C00),Incidence,0.2
+Europe1976,Female,2014,Lip (C00),Incidence,0.2
+Europe1976,Female,2015,Lip (C00),Incidence,0.3
+Europe1976,Female,2016,Lip (C00),Incidence,0.3
+Europe1976,Female,2017,Lip (C00),Incidence,0.3
+Europe1976,Female,2018,Lip (C00),Incidence,0.3
+Europe1976,Female,2019,Lip (C00),Incidence,0.3
+Europe1976,Female,2020,Lip (C00),Incidence,0.2
+Europe1976,Female,2021,Lip (C00),Incidence,0.3
+Europe1976,Female,2022,Lip (C00),Incidence,0.2
+Europe1976,Female,2023,Lip (C00),Incidence,0.2
+Europe1976,Male,1999,Lip (C00),Incidence,0.5
+Europe1976,Male,2000,Lip (C00),Incidence,0.5
+Europe1976,Male,2001,Lip (C00),Incidence,0.5
+Europe1976,Male,2002,Lip (C00),Incidence,0.5
+Europe1976,Male,2003,Lip (C00),Incidence,0.6
+Europe1976,Male,2004,Lip (C00),Incidence,0.5
+Europe1976,Male,2005,Lip (C00),Incidence,0.6
+Europe1976,Male,2006,Lip (C00),Incidence,0.6
+Europe1976,Male,2007,Lip (C00),Incidence,0.5
+Europe1976,Male,2008,Lip (C00),Incidence,0.6
+Europe1976,Male,2009,Lip (C00),Incidence,0.6
+Europe1976,Male,2010,Lip (C00),Incidence,0.6
+Europe1976,Male,2011,Lip (C00),Incidence,0.6
+Europe1976,Male,2012,Lip (C00),Incidence,0.6
+Europe1976,Male,2013,Lip (C00),Incidence,0.6
+Europe1976,Male,2014,Lip (C00),Incidence,0.6
+Europe1976,Male,2015,Lip (C00),Incidence,0.5
+Europe1976,Male,2016,Lip (C00),Incidence,0.6
+Europe1976,Male,2017,Lip (C00),Incidence,0.6
+Europe1976,Male,2018,Lip (C00),Incidence,0.6
+Europe1976,Male,2019,Lip (C00),Incidence,0.6
+Europe1976,Male,2020,Lip (C00),Incidence,0.5
+Europe1976,Male,2021,Lip (C00),Incidence,0.5
+Europe1976,Male,2022,Lip (C00),Incidence,0.6
+Europe1976,Male,2023,Lip (C00),Incidence,0.5
+Segi,Female,1999,Lip (C00),Incidence,0.1
+Segi,Female,2000,Lip (C00),Incidence,0.1
+Segi,Female,2001,Lip (C00),Incidence,0.1
+Segi,Female,2002,Lip (C00),Incidence,0.1
+Segi,Female,2003,Lip (C00),Incidence,0.1
+Segi,Female,2004,Lip (C00),Incidence,0.1
+Segi,Female,2005,Lip (C00),Incidence,0.1
+Segi,Female,2006,Lip (C00),Incidence,0.1
+Segi,Female,2007,Lip (C00),Incidence,0.1
+Segi,Female,2008,Lip (C00),Incidence,0.1
+Segi,Female,2009,Lip (C00),Incidence,0.2
+Segi,Female,2010,Lip (C00),Incidence,0.2
+Segi,Female,2011,Lip (C00),Incidence,0.2
+Segi,Female,2012,Lip (C00),Incidence,0.1
+Segi,Female,2013,Lip (C00),Incidence,0.2
+Segi,Female,2014,Lip (C00),Incidence,0.2
+Segi,Female,2015,Lip (C00),Incidence,0.2
+Segi,Female,2016,Lip (C00),Incidence,0.2
+Segi,Female,2017,Lip (C00),Incidence,0.2
+Segi,Female,2018,Lip (C00),Incidence,0.2
+Segi,Female,2019,Lip (C00),Incidence,0.2
+Segi,Female,2020,Lip (C00),Incidence,0.2
+Segi,Female,2021,Lip (C00),Incidence,0.2
+Segi,Female,2022,Lip (C00),Incidence,0.1
+Segi,Female,2023,Lip (C00),Incidence,0.1
+Segi,Male,1999,Lip (C00),Incidence,0.4
+Segi,Male,2000,Lip (C00),Incidence,0.3
+Segi,Male,2001,Lip (C00),Incidence,0.3
+Segi,Male,2002,Lip (C00),Incidence,0.4
+Segi,Male,2003,Lip (C00),Incidence,0.4
+Segi,Male,2004,Lip (C00),Incidence,0.4
+Segi,Male,2005,Lip (C00),Incidence,0.4
+Segi,Male,2006,Lip (C00),Incidence,0.4
+Segi,Male,2007,Lip (C00),Incidence,0.3
+Segi,Male,2008,Lip (C00),Incidence,0.4
+Segi,Male,2009,Lip (C00),Incidence,0.4
+Segi,Male,2010,Lip (C00),Incidence,0.4
+Segi,Male,2011,Lip (C00),Incidence,0.4
+Segi,Male,2012,Lip (C00),Incidence,0.4
+Segi,Male,2013,Lip (C00),Incidence,0.4
+Segi,Male,2014,Lip (C00),Incidence,0.4
+Segi,Male,2015,Lip (C00),Incidence,0.3
+Segi,Male,2016,Lip (C00),Incidence,0.4
+Segi,Male,2017,Lip (C00),Incidence,0.4
+Segi,Male,2018,Lip (C00),Incidence,0.4
+Segi,Male,2019,Lip (C00),Incidence,0.4
+Segi,Male,2020,Lip (C00),Incidence,0.3
+Segi,Male,2021,Lip (C00),Incidence,0.3
+Segi,Male,2022,Lip (C00),Incidence,0.4
+Segi,Male,2023,Lip (C00),Incidence,0.3
+Europe1976,Female,1999,Base of tongue (C01),Incidence,0.3
+Europe1976,Female,2000,Base of tongue (C01),Incidence,0.3
+Europe1976,Female,2001,Base of tongue (C01),Incidence,0.3
+Europe1976,Female,2002,Base of tongue (C01),Incidence,0.3
+Europe1976,Female,2003,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2004,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2005,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2006,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2007,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2008,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2009,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2010,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2011,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2012,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2013,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2014,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2015,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2016,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2017,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2018,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2019,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2020,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2021,Base of tongue (C01),Incidence,0.5
+Europe1976,Female,2022,Base of tongue (C01),Incidence,0.4
+Europe1976,Female,2023,Base of tongue (C01),Incidence,0.4
+Europe1976,Male,1999,Base of tongue (C01),Incidence,1.4
+Europe1976,Male,2000,Base of tongue (C01),Incidence,1.4
+Europe1976,Male,2001,Base of tongue (C01),Incidence,1.4
+Europe1976,Male,2002,Base of tongue (C01),Incidence,1.3
+Europe1976,Male,2003,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2004,Base of tongue (C01),Incidence,1.5
+Europe1976,Male,2005,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2006,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2007,Base of tongue (C01),Incidence,1.8
+Europe1976,Male,2008,Base of tongue (C01),Incidence,1.7
+Europe1976,Male,2009,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2010,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2011,Base of tongue (C01),Incidence,1.8
+Europe1976,Male,2012,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2013,Base of tongue (C01),Incidence,1.7
+Europe1976,Male,2014,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2015,Base of tongue (C01),Incidence,1.6
+Europe1976,Male,2016,Base of tongue (C01),Incidence,1.5
+Europe1976,Male,2017,Base of tongue (C01),Incidence,1.5
+Europe1976,Male,2018,Base of tongue (C01),Incidence,1.5
+Europe1976,Male,2019,Base of tongue (C01),Incidence,1.4
+Europe1976,Male,2020,Base of tongue (C01),Incidence,1.4
+Europe1976,Male,2021,Base of tongue (C01),Incidence,1.5
+Europe1976,Male,2022,Base of tongue (C01),Incidence,1.4
+Europe1976,Male,2023,Base of tongue (C01),Incidence,1.3
+Segi,Female,1999,Base of tongue (C01),Incidence,0.2
+Segi,Female,2000,Base of tongue (C01),Incidence,0.2
+Segi,Female,2001,Base of tongue (C01),Incidence,0.2
+Segi,Female,2002,Base of tongue (C01),Incidence,0.2
+Segi,Female,2003,Base of tongue (C01),Incidence,0.3
+Segi,Female,2004,Base of tongue (C01),Incidence,0.3
+Segi,Female,2005,Base of tongue (C01),Incidence,0.3
+Segi,Female,2006,Base of tongue (C01),Incidence,0.3
+Segi,Female,2007,Base of tongue (C01),Incidence,0.3
+Segi,Female,2008,Base of tongue (C01),Incidence,0.4
+Segi,Female,2009,Base of tongue (C01),Incidence,0.3
+Segi,Female,2010,Base of tongue (C01),Incidence,0.3
+Segi,Female,2011,Base of tongue (C01),Incidence,0.4
+Segi,Female,2012,Base of tongue (C01),Incidence,0.3
+Segi,Female,2013,Base of tongue (C01),Incidence,0.3
+Segi,Female,2014,Base of tongue (C01),Incidence,0.3
+Segi,Female,2015,Base of tongue (C01),Incidence,0.4
+Segi,Female,2016,Base of tongue (C01),Incidence,0.3
+Segi,Female,2017,Base of tongue (C01),Incidence,0.3
+Segi,Female,2018,Base of tongue (C01),Incidence,0.3
+Segi,Female,2019,Base of tongue (C01),Incidence,0.3
+Segi,Female,2020,Base of tongue (C01),Incidence,0.3
+Segi,Female,2021,Base of tongue (C01),Incidence,0.3
+Segi,Female,2022,Base of tongue (C01),Incidence,0.3
+Segi,Female,2023,Base of tongue (C01),Incidence,0.3
+Segi,Male,1999,Base of tongue (C01),Incidence,1
+Segi,Male,2000,Base of tongue (C01),Incidence,1
+Segi,Male,2001,Base of tongue (C01),Incidence,1
+Segi,Male,2002,Base of tongue (C01),Incidence,0.9
+Segi,Male,2003,Base of tongue (C01),Incidence,1.1
+Segi,Male,2004,Base of tongue (C01),Incidence,1.1
+Segi,Male,2005,Base of tongue (C01),Incidence,1.2
+Segi,Male,2006,Base of tongue (C01),Incidence,1.2
+Segi,Male,2007,Base of tongue (C01),Incidence,1.3
+Segi,Male,2008,Base of tongue (C01),Incidence,1.3
+Segi,Male,2009,Base of tongue (C01),Incidence,1.1
+Segi,Male,2010,Base of tongue (C01),Incidence,1.2
+Segi,Male,2011,Base of tongue (C01),Incidence,1.3
+Segi,Male,2012,Base of tongue (C01),Incidence,1.2
+Segi,Male,2013,Base of tongue (C01),Incidence,1.3
+Segi,Male,2014,Base of tongue (C01),Incidence,1.2
+Segi,Male,2015,Base of tongue (C01),Incidence,1.2
+Segi,Male,2016,Base of tongue (C01),Incidence,1.1
+Segi,Male,2017,Base of tongue (C01),Incidence,1.1
+Segi,Male,2018,Base of tongue (C01),Incidence,1
+Segi,Male,2019,Base of tongue (C01),Incidence,1
+Segi,Male,2020,Base of tongue (C01),Incidence,1
+Segi,Male,2021,Base of tongue (C01),Incidence,1.1
+Segi,Male,2022,Base of tongue (C01),Incidence,1
+Segi,Male,2023,Base of tongue (C01),Incidence,0.9
+Europe1976,Female,1999,Oral cavity (C02-C06),Incidence,2
+Europe1976,Female,2000,Oral cavity (C02-C06),Incidence,2.2
+Europe1976,Female,2001,Oral cavity (C02-C06),Incidence,2.3
+Europe1976,Female,2002,Oral cavity (C02-C06),Incidence,2.2
+Europe1976,Female,2003,Oral cavity (C02-C06),Incidence,2.4
+Europe1976,Female,2004,Oral cavity (C02-C06),Incidence,2.5
+Europe1976,Female,2005,Oral cavity (C02-C06),Incidence,2.2
+Europe1976,Female,2006,Oral cavity (C02-C06),Incidence,2.5
+Europe1976,Female,2007,Oral cavity (C02-C06),Incidence,2.6
+Europe1976,Female,2008,Oral cavity (C02-C06),Incidence,2.7
+Europe1976,Female,2009,Oral cavity (C02-C06),Incidence,2.7
+Europe1976,Female,2010,Oral cavity (C02-C06),Incidence,2.8
+Europe1976,Female,2011,Oral cavity (C02-C06),Incidence,3
+Europe1976,Female,2012,Oral cavity (C02-C06),Incidence,2.8
+Europe1976,Female,2013,Oral cavity (C02-C06),Incidence,3
+Europe1976,Female,2014,Oral cavity (C02-C06),Incidence,2.9
+Europe1976,Female,2015,Oral cavity (C02-C06),Incidence,2.9
+Europe1976,Female,2016,Oral cavity (C02-C06),Incidence,2.7
+Europe1976,Female,2017,Oral cavity (C02-C06),Incidence,2.9
+Europe1976,Female,2018,Oral cavity (C02-C06),Incidence,3
+Europe1976,Female,2019,Oral cavity (C02-C06),Incidence,3
+Europe1976,Female,2020,Oral cavity (C02-C06),Incidence,3
+Europe1976,Female,2021,Oral cavity (C02-C06),Incidence,3
+Europe1976,Female,2022,Oral cavity (C02-C06),Incidence,2.7
+Europe1976,Female,2023,Oral cavity (C02-C06),Incidence,2.7
+Europe1976,Male,1999,Oral cavity (C02-C06),Incidence,5.8
+Europe1976,Male,2000,Oral cavity (C02-C06),Incidence,6.1
+Europe1976,Male,2001,Oral cavity (C02-C06),Incidence,6.1
+Europe1976,Male,2002,Oral cavity (C02-C06),Incidence,6.2
+Europe1976,Male,2003,Oral cavity (C02-C06),Incidence,6.4
+Europe1976,Male,2004,Oral cavity (C02-C06),Incidence,6.4
+Europe1976,Male,2005,Oral cavity (C02-C06),Incidence,6.7
+Europe1976,Male,2006,Oral cavity (C02-C06),Incidence,6.7
+Europe1976,Male,2007,Oral cavity (C02-C06),Incidence,6.8
+Europe1976,Male,2008,Oral cavity (C02-C06),Incidence,6.9
+Europe1976,Male,2009,Oral cavity (C02-C06),Incidence,6.8
+Europe1976,Male,2010,Oral cavity (C02-C06),Incidence,7
+Europe1976,Male,2011,Oral cavity (C02-C06),Incidence,7
+Europe1976,Male,2012,Oral cavity (C02-C06),Incidence,6.7
+Europe1976,Male,2013,Oral cavity (C02-C06),Incidence,6.7
+Europe1976,Male,2014,Oral cavity (C02-C06),Incidence,6.4
+Europe1976,Male,2015,Oral cavity (C02-C06),Incidence,6.3
+Europe1976,Male,2016,Oral cavity (C02-C06),Incidence,6.3
+Europe1976,Male,2017,Oral cavity (C02-C06),Incidence,6.1
+Europe1976,Male,2018,Oral cavity (C02-C06),Incidence,6
+Europe1976,Male,2019,Oral cavity (C02-C06),Incidence,5.9
+Europe1976,Male,2020,Oral cavity (C02-C06),Incidence,5.4
+Europe1976,Male,2021,Oral cavity (C02-C06),Incidence,5.7
+Europe1976,Male,2022,Oral cavity (C02-C06),Incidence,5.3
+Europe1976,Male,2023,Oral cavity (C02-C06),Incidence,4.7
+Segi,Female,1999,Oral cavity (C02-C06),Incidence,1.5
+Segi,Female,2000,Oral cavity (C02-C06),Incidence,1.5
+Segi,Female,2001,Oral cavity (C02-C06),Incidence,1.6
+Segi,Female,2002,Oral cavity (C02-C06),Incidence,1.6
+Segi,Female,2003,Oral cavity (C02-C06),Incidence,1.8
+Segi,Female,2004,Oral cavity (C02-C06),Incidence,1.7
+Segi,Female,2005,Oral cavity (C02-C06),Incidence,1.6
+Segi,Female,2006,Oral cavity (C02-C06),Incidence,1.7
+Segi,Female,2007,Oral cavity (C02-C06),Incidence,1.8
+Segi,Female,2008,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2009,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2010,Oral cavity (C02-C06),Incidence,2.1
+Segi,Female,2011,Oral cavity (C02-C06),Incidence,2.1
+Segi,Female,2012,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2013,Oral cavity (C02-C06),Incidence,2.1
+Segi,Female,2014,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2015,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2016,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2017,Oral cavity (C02-C06),Incidence,2
+Segi,Female,2018,Oral cavity (C02-C06),Incidence,2.1
+Segi,Female,2019,Oral cavity (C02-C06),Incidence,2.2
+Segi,Female,2020,Oral cavity (C02-C06),Incidence,2.2
+Segi,Female,2021,Oral cavity (C02-C06),Incidence,2.1
+Segi,Female,2022,Oral cavity (C02-C06),Incidence,1.9
+Segi,Female,2023,Oral cavity (C02-C06),Incidence,1.9
+Segi,Male,1999,Oral cavity (C02-C06),Incidence,4.3
+Segi,Male,2000,Oral cavity (C02-C06),Incidence,4.5
+Segi,Male,2001,Oral cavity (C02-C06),Incidence,4.5
+Segi,Male,2002,Oral cavity (C02-C06),Incidence,4.7
+Segi,Male,2003,Oral cavity (C02-C06),Incidence,4.7
+Segi,Male,2004,Oral cavity (C02-C06),Incidence,4.8
+Segi,Male,2005,Oral cavity (C02-C06),Incidence,4.9
+Segi,Male,2006,Oral cavity (C02-C06),Incidence,4.9
+Segi,Male,2007,Oral cavity (C02-C06),Incidence,5
+Segi,Male,2008,Oral cavity (C02-C06),Incidence,5.1
+Segi,Male,2009,Oral cavity (C02-C06),Incidence,5
+Segi,Male,2010,Oral cavity (C02-C06),Incidence,5.2
+Segi,Male,2011,Oral cavity (C02-C06),Incidence,5
+Segi,Male,2012,Oral cavity (C02-C06),Incidence,4.9
+Segi,Male,2013,Oral cavity (C02-C06),Incidence,4.7
+Segi,Male,2014,Oral cavity (C02-C06),Incidence,4.6
+Segi,Male,2015,Oral cavity (C02-C06),Incidence,4.7
+Segi,Male,2016,Oral cavity (C02-C06),Incidence,4.5
+Segi,Male,2017,Oral cavity (C02-C06),Incidence,4.3
+Segi,Male,2018,Oral cavity (C02-C06),Incidence,4.4
+Segi,Male,2019,Oral cavity (C02-C06),Incidence,4.3
+Segi,Male,2020,Oral cavity (C02-C06),Incidence,3.9
+Segi,Male,2021,Oral cavity (C02-C06),Incidence,3.9
+Segi,Male,2022,Oral cavity (C02-C06),Incidence,3.8
+Segi,Male,2023,Oral cavity (C02-C06),Incidence,3.5
+Europe1976,Female,1999,Major salivary glands (C07-C08),Incidence,0.5
+Europe1976,Female,2000,Major salivary glands (C07-C08),Incidence,0.5
+Europe1976,Female,2001,Major salivary glands (C07-C08),Incidence,0.5
+Europe1976,Female,2002,Major salivary glands (C07-C08),Incidence,0.5
+Europe1976,Female,2003,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2004,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2005,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2006,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2007,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2008,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2009,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2010,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2011,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2012,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2013,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2014,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2015,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2016,Major salivary glands (C07-C08),Incidence,0.8
+Europe1976,Female,2017,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2018,Major salivary glands (C07-C08),Incidence,0.8
+Europe1976,Female,2019,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2020,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2021,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Female,2022,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,2023,Major salivary glands (C07-C08),Incidence,0.6
+Europe1976,Male,1999,Major salivary glands (C07-C08),Incidence,0.9
+Europe1976,Male,2000,Major salivary glands (C07-C08),Incidence,0.9
+Europe1976,Male,2001,Major salivary glands (C07-C08),Incidence,0.9
+Europe1976,Male,2002,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2003,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2004,Major salivary glands (C07-C08),Incidence,0.9
+Europe1976,Male,2005,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2006,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2007,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2008,Major salivary glands (C07-C08),Incidence,1.1
+Europe1976,Male,2009,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2010,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2011,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2012,Major salivary glands (C07-C08),Incidence,0.9
+Europe1976,Male,2013,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2014,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2015,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2016,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2017,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2018,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2019,Major salivary glands (C07-C08),Incidence,1.1
+Europe1976,Male,2020,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2021,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2022,Major salivary glands (C07-C08),Incidence,1
+Europe1976,Male,2023,Major salivary glands (C07-C08),Incidence,1
+Segi,Female,1999,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2000,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2001,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2002,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2003,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2004,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2005,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2006,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2007,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2008,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2009,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2010,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2011,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2012,Major salivary glands (C07-C08),Incidence,0.4
+Segi,Female,2013,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2014,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2015,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2016,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2017,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2018,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Female,2019,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2020,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2021,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2022,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Female,2023,Major salivary glands (C07-C08),Incidence,0.5
+Segi,Male,1999,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2000,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2001,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2002,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2003,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2004,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2005,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2006,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2007,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2008,Major salivary glands (C07-C08),Incidence,0.8
+Segi,Male,2009,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2010,Major salivary glands (C07-C08),Incidence,0.8
+Segi,Male,2011,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2012,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2013,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2014,Major salivary glands (C07-C08),Incidence,0.8
+Segi,Male,2015,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2016,Major salivary glands (C07-C08),Incidence,0.7
+Segi,Male,2017,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2018,Major salivary glands (C07-C08),Incidence,0.8
+Segi,Male,2019,Major salivary glands (C07-C08),Incidence,0.8
+Segi,Male,2020,Major salivary glands (C07-C08),Incidence,0.8
+Segi,Male,2021,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2022,Major salivary glands (C07-C08),Incidence,0.6
+Segi,Male,2023,Major salivary glands (C07-C08),Incidence,0.7
+Europe1976,Female,1999,Lip (C00),Deaths,0
+Europe1976,Female,2000,Lip (C00),Deaths,0
+Europe1976,Female,2001,Lip (C00),Deaths,0
+Europe1976,Female,2002,Lip (C00),Deaths,0
+Europe1976,Female,2003,Lip (C00),Deaths,0
+Europe1976,Female,2004,Lip (C00),Deaths,0
+Europe1976,Female,2005,Lip (C00),Deaths,0
+Europe1976,Female,2006,Lip (C00),Deaths,0
+Europe1976,Female,2007,Lip (C00),Deaths,0
+Europe1976,Female,2008,Lip (C00),Deaths,0
+Europe1976,Female,2009,Lip (C00),Deaths,0
+Europe1976,Female,2010,Lip (C00),Deaths,0
+Europe1976,Female,2011,Lip (C00),Deaths,0
+Europe1976,Female,2012,Lip (C00),Deaths,0
+Europe1976,Female,2013,Lip (C00),Deaths,0
+Europe1976,Female,2014,Lip (C00),Deaths,0
+Europe1976,Female,2015,Lip (C00),Deaths,0
+Europe1976,Female,2016,Lip (C00),Deaths,0
+Europe1976,Female,2017,Lip (C00),Deaths,0
+Europe1976,Female,2018,Lip (C00),Deaths,0
+Europe1976,Female,2019,Lip (C00),Deaths,0
+Europe1976,Female,2020,Lip (C00),Deaths,0
+Europe1976,Female,2021,Lip (C00),Deaths,0
+Europe1976,Female,2022,Lip (C00),Deaths,0
+Europe1976,Female,2023,Lip (C00),Deaths,0
+Europe1976,Male,1999,Lip (C00),Deaths,0.1
+Europe1976,Male,2000,Lip (C00),Deaths,0.1
+Europe1976,Male,2001,Lip (C00),Deaths,0.1
+Europe1976,Male,2002,Lip (C00),Deaths,0.1
+Europe1976,Male,2003,Lip (C00),Deaths,0.1
+Europe1976,Male,2004,Lip (C00),Deaths,0.1
+Europe1976,Male,2005,Lip (C00),Deaths,0
+Europe1976,Male,2006,Lip (C00),Deaths,0
+Europe1976,Male,2007,Lip (C00),Deaths,0
+Europe1976,Male,2008,Lip (C00),Deaths,0
+Europe1976,Male,2009,Lip (C00),Deaths,0
+Europe1976,Male,2010,Lip (C00),Deaths,0
+Europe1976,Male,2011,Lip (C00),Deaths,0.1
+Europe1976,Male,2012,Lip (C00),Deaths,0
+Europe1976,Male,2013,Lip (C00),Deaths,0.1
+Europe1976,Male,2014,Lip (C00),Deaths,0.1
+Europe1976,Male,2015,Lip (C00),Deaths,0.1
+Europe1976,Male,2016,Lip (C00),Deaths,0
+Europe1976,Male,2017,Lip (C00),Deaths,0.1
+Europe1976,Male,2018,Lip (C00),Deaths,0
+Europe1976,Male,2019,Lip (C00),Deaths,0.1
+Europe1976,Male,2020,Lip (C00),Deaths,0
+Europe1976,Male,2021,Lip (C00),Deaths,0
+Europe1976,Male,2022,Lip (C00),Deaths,0
+Europe1976,Male,2023,Lip (C00),Deaths,0
+Segi,Female,1999,Lip (C00),Deaths,0
+Segi,Female,2000,Lip (C00),Deaths,0
+Segi,Female,2001,Lip (C00),Deaths,0
+Segi,Female,2002,Lip (C00),Deaths,0
+Segi,Female,2003,Lip (C00),Deaths,0
+Segi,Female,2004,Lip (C00),Deaths,0
+Segi,Female,2005,Lip (C00),Deaths,0
+Segi,Female,2006,Lip (C00),Deaths,0
+Segi,Female,2007,Lip (C00),Deaths,0
+Segi,Female,2008,Lip (C00),Deaths,0
+Segi,Female,2009,Lip (C00),Deaths,0
+Segi,Female,2010,Lip (C00),Deaths,0
+Segi,Female,2011,Lip (C00),Deaths,0
+Segi,Female,2012,Lip (C00),Deaths,0
+Segi,Female,2013,Lip (C00),Deaths,0
+Segi,Female,2014,Lip (C00),Deaths,0
+Segi,Female,2015,Lip (C00),Deaths,0
+Segi,Female,2016,Lip (C00),Deaths,0
+Segi,Female,2017,Lip (C00),Deaths,0
+Segi,Female,2018,Lip (C00),Deaths,0
+Segi,Female,2019,Lip (C00),Deaths,0
+Segi,Female,2020,Lip (C00),Deaths,0
+Segi,Female,2021,Lip (C00),Deaths,0
+Segi,Female,2022,Lip (C00),Deaths,0
+Segi,Female,2023,Lip (C00),Deaths,0
+Segi,Male,1999,Lip (C00),Deaths,0
+Segi,Male,2000,Lip (C00),Deaths,0
+Segi,Male,2001,Lip (C00),Deaths,0
+Segi,Male,2002,Lip (C00),Deaths,0
+Segi,Male,2003,Lip (C00),Deaths,0
+Segi,Male,2004,Lip (C00),Deaths,0
+Segi,Male,2005,Lip (C00),Deaths,0
+Segi,Male,2006,Lip (C00),Deaths,0
+Segi,Male,2007,Lip (C00),Deaths,0
+Segi,Male,2008,Lip (C00),Deaths,0
+Segi,Male,2009,Lip (C00),Deaths,0
+Segi,Male,2010,Lip (C00),Deaths,0
+Segi,Male,2011,Lip (C00),Deaths,0
+Segi,Male,2012,Lip (C00),Deaths,0
+Segi,Male,2013,Lip (C00),Deaths,0
+Segi,Male,2014,Lip (C00),Deaths,0
+Segi,Male,2015,Lip (C00),Deaths,0
+Segi,Male,2016,Lip (C00),Deaths,0
+Segi,Male,2017,Lip (C00),Deaths,0
+Segi,Male,2018,Lip (C00),Deaths,0
+Segi,Male,2019,Lip (C00),Deaths,0
+Segi,Male,2020,Lip (C00),Deaths,0
+Segi,Male,2021,Lip (C00),Deaths,0
+Segi,Male,2022,Lip (C00),Deaths,0
+Segi,Male,2023,Lip (C00),Deaths,0
+Europe1976,Female,1999,Base of tongue (C01),Deaths,0.3
+Europe1976,Female,2000,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2001,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2002,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2003,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2004,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2005,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2006,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2007,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2008,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2009,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2010,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2011,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2012,Base of tongue (C01),Deaths,0.3
+Europe1976,Female,2013,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2014,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2015,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2016,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2017,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2018,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2019,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2020,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2021,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2022,Base of tongue (C01),Deaths,0.2
+Europe1976,Female,2023,Base of tongue (C01),Deaths,0.2
+Europe1976,Male,1999,Base of tongue (C01),Deaths,1
+Europe1976,Male,2000,Base of tongue (C01),Deaths,0.8
+Europe1976,Male,2001,Base of tongue (C01),Deaths,0.9
+Europe1976,Male,2002,Base of tongue (C01),Deaths,0.9
+Europe1976,Male,2003,Base of tongue (C01),Deaths,0.9
+Europe1976,Male,2004,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2005,Base of tongue (C01),Deaths,0.8
+Europe1976,Male,2006,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2007,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2008,Base of tongue (C01),Deaths,0.8
+Europe1976,Male,2009,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2010,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2011,Base of tongue (C01),Deaths,0.8
+Europe1976,Male,2012,Base of tongue (C01),Deaths,0.8
+Europe1976,Male,2013,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2014,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2015,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2016,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2017,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2018,Base of tongue (C01),Deaths,0.7
+Europe1976,Male,2019,Base of tongue (C01),Deaths,0.5
+Europe1976,Male,2020,Base of tongue (C01),Deaths,0.6
+Europe1976,Male,2021,Base of tongue (C01),Deaths,0.6
+Europe1976,Male,2022,Base of tongue (C01),Deaths,0.5
+Europe1976,Male,2023,Base of tongue (C01),Deaths,0.5
+Segi,Female,1999,Base of tongue (C01),Deaths,0.2
+Segi,Female,2000,Base of tongue (C01),Deaths,0.1
+Segi,Female,2001,Base of tongue (C01),Deaths,0.1
+Segi,Female,2002,Base of tongue (C01),Deaths,0.2
+Segi,Female,2003,Base of tongue (C01),Deaths,0.2
+Segi,Female,2004,Base of tongue (C01),Deaths,0.1
+Segi,Female,2005,Base of tongue (C01),Deaths,0.1
+Segi,Female,2006,Base of tongue (C01),Deaths,0.1
+Segi,Female,2007,Base of tongue (C01),Deaths,0.1
+Segi,Female,2008,Base of tongue (C01),Deaths,0.2
+Segi,Female,2009,Base of tongue (C01),Deaths,0.1
+Segi,Female,2010,Base of tongue (C01),Deaths,0.1
+Segi,Female,2011,Base of tongue (C01),Deaths,0.1
+Segi,Female,2012,Base of tongue (C01),Deaths,0.2
+Segi,Female,2013,Base of tongue (C01),Deaths,0.2
+Segi,Female,2014,Base of tongue (C01),Deaths,0.2
+Segi,Female,2015,Base of tongue (C01),Deaths,0.1
+Segi,Female,2016,Base of tongue (C01),Deaths,0.1
+Segi,Female,2017,Base of tongue (C01),Deaths,0.1
+Segi,Female,2018,Base of tongue (C01),Deaths,0.2
+Segi,Female,2019,Base of tongue (C01),Deaths,0.1
+Segi,Female,2020,Base of tongue (C01),Deaths,0.1
+Segi,Female,2021,Base of tongue (C01),Deaths,0.1
+Segi,Female,2022,Base of tongue (C01),Deaths,0.1
+Segi,Female,2023,Base of tongue (C01),Deaths,0.1
+Segi,Male,1999,Base of tongue (C01),Deaths,0.7
+Segi,Male,2000,Base of tongue (C01),Deaths,0.6
+Segi,Male,2001,Base of tongue (C01),Deaths,0.6
+Segi,Male,2002,Base of tongue (C01),Deaths,0.6
+Segi,Male,2003,Base of tongue (C01),Deaths,0.6
+Segi,Male,2004,Base of tongue (C01),Deaths,0.5
+Segi,Male,2005,Base of tongue (C01),Deaths,0.6
+Segi,Male,2006,Base of tongue (C01),Deaths,0.5
+Segi,Male,2007,Base of tongue (C01),Deaths,0.5
+Segi,Male,2008,Base of tongue (C01),Deaths,0.6
+Segi,Male,2009,Base of tongue (C01),Deaths,0.5
+Segi,Male,2010,Base of tongue (C01),Deaths,0.5
+Segi,Male,2011,Base of tongue (C01),Deaths,0.5
+Segi,Male,2012,Base of tongue (C01),Deaths,0.6
+Segi,Male,2013,Base of tongue (C01),Deaths,0.5
+Segi,Male,2014,Base of tongue (C01),Deaths,0.5
+Segi,Male,2015,Base of tongue (C01),Deaths,0.5
+Segi,Male,2016,Base of tongue (C01),Deaths,0.5
+Segi,Male,2017,Base of tongue (C01),Deaths,0.5
+Segi,Male,2018,Base of tongue (C01),Deaths,0.5
+Segi,Male,2019,Base of tongue (C01),Deaths,0.4
+Segi,Male,2020,Base of tongue (C01),Deaths,0.4
+Segi,Male,2021,Base of tongue (C01),Deaths,0.4
+Segi,Male,2022,Base of tongue (C01),Deaths,0.4
+Segi,Male,2023,Base of tongue (C01),Deaths,0.3
+Europe1976,Female,1999,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2000,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2001,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2002,Oral cavity (C02-C06),Deaths,0.4
+Europe1976,Female,2003,Oral cavity (C02-C06),Deaths,0.4
+Europe1976,Female,2004,Oral cavity (C02-C06),Deaths,0.4
+Europe1976,Female,2005,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2006,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2007,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2008,Oral cavity (C02-C06),Deaths,0.4
+Europe1976,Female,2009,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2010,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2011,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2012,Oral cavity (C02-C06),Deaths,0.5
+Europe1976,Female,2013,Oral cavity (C02-C06),Deaths,0.8
+Europe1976,Female,2014,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2015,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2016,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2017,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2018,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2019,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2020,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2021,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2022,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Female,2023,Oral cavity (C02-C06),Deaths,0.6
+Europe1976,Male,1999,Oral cavity (C02-C06),Deaths,2.3
+Europe1976,Male,2000,Oral cavity (C02-C06),Deaths,2.2
+Europe1976,Male,2001,Oral cavity (C02-C06),Deaths,2.4
+Europe1976,Male,2002,Oral cavity (C02-C06),Deaths,2.3
+Europe1976,Male,2003,Oral cavity (C02-C06),Deaths,2.1
+Europe1976,Male,2004,Oral cavity (C02-C06),Deaths,1.8
+Europe1976,Male,2005,Oral cavity (C02-C06),Deaths,1.9
+Europe1976,Male,2006,Oral cavity (C02-C06),Deaths,1.9
+Europe1976,Male,2007,Oral cavity (C02-C06),Deaths,2
+Europe1976,Male,2008,Oral cavity (C02-C06),Deaths,2
+Europe1976,Male,2009,Oral cavity (C02-C06),Deaths,2
+Europe1976,Male,2010,Oral cavity (C02-C06),Deaths,1.9
+Europe1976,Male,2011,Oral cavity (C02-C06),Deaths,2.1
+Europe1976,Male,2012,Oral cavity (C02-C06),Deaths,2.2
+Europe1976,Male,2013,Oral cavity (C02-C06),Deaths,2
+Europe1976,Male,2014,Oral cavity (C02-C06),Deaths,1.8
+Europe1976,Male,2015,Oral cavity (C02-C06),Deaths,1.8
+Europe1976,Male,2016,Oral cavity (C02-C06),Deaths,1.9
+Europe1976,Male,2017,Oral cavity (C02-C06),Deaths,1.7
+Europe1976,Male,2018,Oral cavity (C02-C06),Deaths,1.8
+Europe1976,Male,2019,Oral cavity (C02-C06),Deaths,1.8
+Europe1976,Male,2020,Oral cavity (C02-C06),Deaths,1.6
+Europe1976,Male,2021,Oral cavity (C02-C06),Deaths,1.6
+Europe1976,Male,2022,Oral cavity (C02-C06),Deaths,1.6
+Europe1976,Male,2023,Oral cavity (C02-C06),Deaths,1.5
+Segi,Female,1999,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2000,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2001,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2002,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2003,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2004,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2005,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2006,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2007,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2008,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2009,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2010,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2011,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2012,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2013,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2014,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2015,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2016,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2017,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2018,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2019,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2020,Oral cavity (C02-C06),Deaths,0.3
+Segi,Female,2021,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2022,Oral cavity (C02-C06),Deaths,0.4
+Segi,Female,2023,Oral cavity (C02-C06),Deaths,0.4
+Segi,Male,1999,Oral cavity (C02-C06),Deaths,1.7
+Segi,Male,2000,Oral cavity (C02-C06),Deaths,1.6
+Segi,Male,2001,Oral cavity (C02-C06),Deaths,1.7
+Segi,Male,2002,Oral cavity (C02-C06),Deaths,1.6
+Segi,Male,2003,Oral cavity (C02-C06),Deaths,1.6
+Segi,Male,2004,Oral cavity (C02-C06),Deaths,1.4
+Segi,Male,2005,Oral cavity (C02-C06),Deaths,1.5
+Segi,Male,2006,Oral cavity (C02-C06),Deaths,1.4
+Segi,Male,2007,Oral cavity (C02-C06),Deaths,1.5
+Segi,Male,2008,Oral cavity (C02-C06),Deaths,1.5
+Segi,Male,2009,Oral cavity (C02-C06),Deaths,1.4
+Segi,Male,2010,Oral cavity (C02-C06),Deaths,1.4
+Segi,Male,2011,Oral cavity (C02-C06),Deaths,1.5
+Segi,Male,2012,Oral cavity (C02-C06),Deaths,1.6
+Segi,Male,2013,Oral cavity (C02-C06),Deaths,1.5
+Segi,Male,2014,Oral cavity (C02-C06),Deaths,1.4
+Segi,Male,2015,Oral cavity (C02-C06),Deaths,1.3
+Segi,Male,2016,Oral cavity (C02-C06),Deaths,1.3
+Segi,Male,2017,Oral cavity (C02-C06),Deaths,1.2
+Segi,Male,2018,Oral cavity (C02-C06),Deaths,1.2
+Segi,Male,2019,Oral cavity (C02-C06),Deaths,1.1
+Segi,Male,2020,Oral cavity (C02-C06),Deaths,1
+Segi,Male,2021,Oral cavity (C02-C06),Deaths,1
+Segi,Male,2022,Oral cavity (C02-C06),Deaths,1
+Segi,Male,2023,Oral cavity (C02-C06),Deaths,1
+Europe1976,Female,1999,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2000,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2001,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2002,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2003,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2004,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2005,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2006,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2007,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2008,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2009,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2010,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2011,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2012,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2013,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2014,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2015,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2016,Major salivary glands (C07-C08),Deaths,0.2
+Europe1976,Female,2017,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2018,Major salivary glands (C07-C08),Deaths,0.2
+Europe1976,Female,2019,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2020,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2021,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2022,Major salivary glands (C07-C08),Deaths,0.1
+Europe1976,Female,2023,Major salivary glands (C07-C08),Deaths,0.2
+Europe1976,Male,1999,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2000,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2001,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2002,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2003,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2004,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2005,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2006,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2007,Major salivary glands (C07-C08),Deaths,0.2
+Europe1976,Male,2008,Major salivary glands (C07-C08),Deaths,0.2
+Europe1976,Male,2009,Major salivary glands (C07-C08),Deaths,0.2
+Europe1976,Male,2010,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2011,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2012,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2013,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2014,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2015,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2016,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2017,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2018,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2019,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2020,Major salivary glands (C07-C08),Deaths,0.4
+Europe1976,Male,2021,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2022,Major salivary glands (C07-C08),Deaths,0.3
+Europe1976,Male,2023,Major salivary glands (C07-C08),Deaths,0.3
+Segi,Female,1999,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2000,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2001,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2002,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2003,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2004,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2005,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2006,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2007,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2008,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2009,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2010,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2011,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2012,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2013,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2014,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2015,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2016,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2017,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2018,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2019,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2020,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2021,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2022,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Female,2023,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Male,1999,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2000,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2001,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2002,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2003,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Male,2004,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2005,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2006,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Male,2007,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2008,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Male,2009,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2010,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2011,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2012,Major salivary glands (C07-C08),Deaths,0.3
+Segi,Male,2013,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2014,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2015,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2016,Major salivary glands (C07-C08),Deaths,0.3
+Segi,Male,2017,Major salivary glands (C07-C08),Deaths,0.3
+Segi,Male,2018,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2019,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2020,Major salivary glands (C07-C08),Deaths,0.3
+Segi,Male,2021,Major salivary glands (C07-C08),Deaths,0.2
+Segi,Male,2022,Major salivary glands (C07-C08),Deaths,0.1
+Segi,Male,2023,Major salivary glands (C07-C08),Deaths,0.2
